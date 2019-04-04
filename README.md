@@ -36,4 +36,6 @@ If you disable it on demand to watch porns then you defeat the very purpose of i
 You can contribute to improve this repository by opening pull requests adding new sites if you find there are missing ones.
 
 ## Donation
-If you feel like you want to donate something.
+If you feel like you want to donate something
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](3UN95QQCD4B7E)
