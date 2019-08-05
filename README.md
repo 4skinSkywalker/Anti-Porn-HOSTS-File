@@ -13,19 +13,29 @@ HOSTS.txt contains a huge list of porn sites (probably the biggest list you can 
 
 Just by copy-pasting its content on your machine's HOSTS file enables the blocking mechanism.
 
-## Edit HOSTS in Windows 7/8.x/10
+## HOSTS in Windows 7/8.x/10
 1. Right mouse click on Notepad icon then click on `Run as administrator`
 2. File → Open... then insert the path `C:\windows\system32\drivers\etc\hosts`
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
 
-## Edit HOSTS in Linux and macOS
+## HOSTS in Linux and macOS
 1. Open the terminal
 2. Type `sudo vim /etc/hosts`
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
+
+## HOSTS in Android
+1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
+2. Download "hosts" and rename it "hosts.txt"
+3. Put "hosts.txt" in `/Android/data/dns.hosts.server.change.vip/files/Download/`
+4. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
+5. Click on HOSTS EDITOR button
+6. Click on three dots top-right corner
+7. Import HOSTS file
+8. Go back and START
 
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
