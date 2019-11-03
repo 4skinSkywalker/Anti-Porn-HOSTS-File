@@ -42,8 +42,18 @@ Once the mechanism is in place and working, do not disable it.
 
 If you disable it on demand to watch porns then you defeat the very purpose of it, but more than that you betray yourself.
 
-## Contribution
-You can contribute to improve this repository by opening pull requests adding new sites if you find there are missing ones.
+## Contribute
+
+Become an open source contributor in 7 steps (_it takes less than 30 minutes_):
+1. Fork this repository
+2. Clone the repository into your PC
+3. Create a new branch
+4. Change whatever you think it has to be improved
+5. Commit your changes
+6. Push your changes to GitHub
+7. Submit a PR
+
+Your changes **won't be visible immediately**; first they have to be merged by the project maintainer.
 
 ## Donation
 If you feel like you want to donate something
