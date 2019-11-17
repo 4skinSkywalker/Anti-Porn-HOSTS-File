@@ -29,13 +29,12 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 
 ## HOSTS in Android
 1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-2. Download "hosts" and rename it "hosts.txt"
-3. Put "hosts.txt" in `/Android/data/dns.hosts.server.change.vip/files/Download/`
-4. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-5. Click on HOSTS EDITOR button
-6. Click on three dots top-right corner
-7. Import HOSTS file
-8. Go back and START
+2. Download "HOSTS.txt" and put it in `/Android/data/dns.hosts.server.change.vip/files/Download/`
+3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
+4. Click on HOSTS EDITOR button
+5. Click on three dots top-right corner
+6. Import HOSTS file
+7. Go back and START
 
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
