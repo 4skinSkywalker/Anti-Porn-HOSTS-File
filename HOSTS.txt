@@ -15588,7 +15588,6 @@
 127.0.0.1       spatiumdg.pl
 127.0.0.1       spatsz.com
 127.0.0.1       spb-plitka.ru
-127.0.0.1       spclient.wg.spotify.com
 127.0.0.1       special-alerts.com
 127.0.0.1       special-porn.com
 127.0.0.1       special-promotion.online
