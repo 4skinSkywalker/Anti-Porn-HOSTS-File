@@ -3107,6 +3107,7 @@
 0.0.0.0       bp.specificclick.net
 0.0.0.0       bpath.com
 0.0.0.0       bpro1.top
+0.0.0.0       br.spankbang.com
 0.0.0.0       br.youporn.com
 0.0.0.0       bracalemusic.com
 0.0.0.0       bracewellfamily.com
@@ -4843,6 +4844,7 @@
 0.0.0.0       de-nis-ner-mi-5.info
 0.0.0.0       de.cookiescript.info
 0.0.0.0       de.eporner.com
+0.0.0.0       de.freeones.com
 0.0.0.0       de.grmtech.net
 0.0.0.0       de.hosting.adjug.com
 0.0.0.0       de.ioam.de
@@ -6786,6 +6788,7 @@
 0.0.0.0       fr.redtube.com
 0.0.0.0       fr.sex.com
 0.0.0.0       fr.slidein.clickintext.net
+0.0.0.0       fr.spankbang.com
 0.0.0.0       fr.txxx.com
 0.0.0.0       fr.xhamster.com
 0.0.0.0       fr.xvideos.com
@@ -9306,6 +9309,7 @@
 0.0.0.0       jp.porn.com
 0.0.0.0       jp.pornhub.com
 0.0.0.0       jp.redtube.com
+0.0.0.0       jp.spankbang.com
 0.0.0.0       jp.txxx.com
 0.0.0.0       jp.xhamster.com
 0.0.0.0       jp.youporn.com
@@ -9685,6 +9689,7 @@
 0.0.0.0       l.ohmyad.co
 0.0.0.0       l7.zedo.com
 0.0.0.0       la-fa.ru
+0.0.0.0       la.spankbang.com
 0.0.0.0       lab88inc.112.2o7.net
 0.0.0.0       labelwater.se
 0.0.0.0       labmen.com
@@ -10334,6 +10339,7 @@
 0.0.0.0       m.se.xhamster.com
 0.0.0.0       m.sextvx.com
 0.0.0.0       m.smsquiz.pl
+0.0.0.0       m.spankbang.com
 0.0.0.0       m.tidebuy.com
 0.0.0.0       m.trb.com
 0.0.0.0       m.uzit.co.il
@@ -11372,6 +11378,7 @@
 0.0.0.0       mrsrichards.com
 0.0.0.0       mrvideospornogratis.xxx
 0.0.0.0       mrwhite.biz
+0.0.0.0       ms.spankbang.com
 0.0.0.0       msbehaviour.co.uk
 0.0.0.0       msbritneyspears.com
 0.0.0.0       mschoolbucks.com
@@ -11924,6 +11931,7 @@
 0.0.0.0       nl.netlog.com
 0.0.0.0       nl.porn.com
 0.0.0.0       nl.pornhub.com
+0.0.0.0       nl.spankbang.com
 0.0.0.0       nl.txxx.com
 0.0.0.0       nl.youporn.com
 0.0.0.0       nlkdom.com
@@ -13261,6 +13269,7 @@
 0.0.0.0       pl.siberianhealth.com
 0.0.0.0       pl.slimg0ji-berry.com
 0.0.0.0       pl.smutcam.com
+0.0.0.0       pl.spankbang.com
 0.0.0.0       pl.superando.net
 0.0.0.0       pl.txxx.com
 0.0.0.0       pl.xhamster.com
@@ -13718,6 +13727,7 @@
 0.0.0.0       pornvtope.blogspot.pt
 0.0.0.0       pornworld.name
 0.0.0.0       pornxio.com
+0.0.0.0       pornxp.com
 0.0.0.0       pornxs.com
 0.0.0.0       pornxxxvideos.net
 0.0.0.0       pornzone.tv
@@ -13991,10 +14001,12 @@
 0.0.0.0       pt-gmtdmp.mookie1.com
 0.0.0.0       pt.beststreams.club
 0.0.0.0       pt.eporner.com
+0.0.0.0       pt.xhamster.com
 0.0.0.0       pt.m.xhamster.com
 0.0.0.0       pt.porn.com
 0.0.0.0       pt.pornhub.com
 0.0.0.0       pt.sex.com
+0.0.0.0       pt.spankbang.com
 0.0.0.0       pt.trafficjunky.net
 0.0.0.0       pt.txxx.com
 0.0.0.0       pt.youporn.com
@@ -14686,6 +14698,7 @@
 0.0.0.0       ru.redtram.com
 0.0.0.0       ru.redtube.com
 0.0.0.0       ru.sex.com
+0.0.0.0       ru.spankbang.com
 0.0.0.0       ru.txxx.com
 0.0.0.0       rubanners.com
 0.0.0.0       rubberdoll.net
@@ -15092,6 +15105,7 @@
 0.0.0.0       sdt.ru
 0.0.0.0       se-xe.fr
 0.0.0.0       se.porn.com
+0.0.0.0       se.spankbang.com
 0.0.0.0       se.xhamster.com
 0.0.0.0       sea.cryptaloot.pro
 0.0.0.0       sea.effectivemeasure.net
@@ -15360,6 +15374,7 @@
 0.0.0.0       sexguiden.dk
 0.0.0.0       sexhay69.net
 0.0.0.0       sexhayvl.pro
+0.0.0.0       sexhd.pics
 0.0.0.0       sexhry.100plus.cz
 0.0.0.0       sexhumor.pl
 0.0.0.0       sexkrasivo.net
@@ -16645,6 +16660,7 @@
 0.0.0.0       tgpmanager.com
 0.0.0.0       tgptraffic.biz
 0.0.0.0       tgtvbngp.ru
+0.0.0.0       th.spankbang.com
 0.0.0.0       thathappened.us.intellitxt.com
 0.0.0.0       thathislitt.ru
 0.0.0.0       thatpervert.com
@@ -18639,6 +18655,7 @@
 0.0.0.0       www.3guys1hammer.ws
 0.0.0.0       www.3movs.com
 0.0.0.0       www.3peaks.co.jp
+0.0.0.0       www.3pornstarmovies.com
 0.0.0.0       www.3qqq.net
 0.0.0.0       www.3sex.com
 0.0.0.0       www.404.elitedollars.com
@@ -19612,6 +19629,7 @@
 0.0.0.0       www.czechhunter.com
 0.0.0.0       www.czechsoles.com
 0.0.0.0       www.czechvr.com
+0.0.0.0       www.czechvrcasting.com
 0.0.0.0       www.d2r2xsm2cbt.tumblr.com
 0.0.0.0       www.dacash.com
 0.0.0.0       www.daddyscumkittens.tumblr.com
@@ -19749,6 +19767,7 @@
 0.0.0.0       www.dontstayvirgin.movielol.org
 0.0.0.0       www.dontwatch.us
 0.0.0.0       www.doodream.com
+0.0.0.0       www.dorceclub.com
 0.0.0.0       www.doubleclick.com
 0.0.0.0       www.doubleclick.net
 0.0.0.0       www.doublepimp.com
@@ -20083,6 +20102,7 @@
 0.0.0.0       www.fpcpopunder.com
 0.0.0.0       www.fpctraffic.com
 0.0.0.0       www.fpctraffic2.com
+0.0.0.0       www.fpo.xxx
 0.0.0.0       www.frauporno.com
 0.0.0.0       www.freakygirlsarethehottest.tumblr.com
 0.0.0.0       www.free-adult-games.com
@@ -21553,6 +21573,7 @@
 0.0.0.0       www.organiclife.com.pl
 0.0.0.0       www.organogold.com
 0.0.0.0       www.orgarsm-best-thing.tumblr.com
+0.0.0.0       www.orgasmatrix.com
 0.0.0.0       www.orgasmes-ruines.tumblr.com
 0.0.0.0       www.orgasmos-intensos.tumblr.com
 0.0.0.0       www.orgasmruin.tumblr.com
@@ -22130,6 +22151,7 @@
 0.0.0.0       www.roboclean-poland.com
 0.0.0.0       www.robsxxx.com
 0.0.0.0       www.roccomovies.net
+0.0.0.0       www.roccosiffredi.com
 0.0.0.0       www.rockinamababes.tumblr.com
 0.0.0.0       www.rollbar.com
 0.0.0.0       www.roltek.com.tr
