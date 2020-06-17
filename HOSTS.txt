@@ -9230,6 +9230,7 @@
 0.0.0.0       it.sex.com
 0.0.0.0       it.spankbang.com
 0.0.0.0       it.txxx.com
+0.0.0.0       it.xhamster.com
 0.0.0.0       it.xvideos.com
 0.0.0.0       it.youporn.com
 0.0.0.0       itaketwo.com
