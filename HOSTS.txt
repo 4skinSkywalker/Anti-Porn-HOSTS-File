@@ -10600,7 +10600,6 @@
 0.0.0.0       m.eporner.com
 0.0.0.0       m.es.xhamster.com
 0.0.0.0       m.exactag.com
-0.0.0.0       m.facebook.com
 0.0.0.0       m.fr.xhamster.com
 0.0.0.0       m.friendlyduck.com
 0.0.0.0       m.fuckmymommyandme.com
