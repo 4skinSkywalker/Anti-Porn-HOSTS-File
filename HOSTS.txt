@@ -334,6 +334,7 @@
 0.0.0.0       4ksport.pl
 0.0.0.0       4kstream.pl
 0.0.0.0       4meme.com
+0.0.0.0       4porn.com
 0.0.0.0       4pornxxx.com
 0.0.0.0       4pp13.com
 0.0.0.0       4qinvite.4q.iperceptions.com
@@ -10322,6 +10323,7 @@
 0.0.0.0       lloydsx67mvr.personal-protective-safety-equipment.co.uk
 0.0.0.0       llywood.info
 0.0.0.0       lmcd.us.intellitxt.com
+0.0.0.0       looti.net
 0.0.0.0       lnaff.pl
 0.0.0.0       lo2.me
 0.0.0.0       load.exelator.com
@@ -12176,6 +12178,7 @@
 0.0.0.0       ng.virgul.com
 0.0.0.0       ngastatic.com
 0.0.0.0       nhentai.net
+0.0.0.0       nhentai.com
 0.0.0.0       nhl.112.2o7.net
 0.0.0.0       nhl17coins.exblog.jp
 0.0.0.0       nht-2.extreme-dm.com
@@ -15823,6 +15826,7 @@
 0.0.0.0       sexyukcams.com
 0.0.0.0       sffh.de
 0.0.0.0       sgs001.adtech.us
+0.0.0.0       shahvani.com
 0.0.0.0       shameless.com
 0.0.0.0       sharebutton.net
 0.0.0.0       shariki-zuma-lines.ru
