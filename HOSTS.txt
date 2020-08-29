@@ -6444,6 +6444,7 @@
 0.0.0.0       fapporn.me
 0.0.0.0       fappybirds.com
 0.0.0.0       faproulette.co
+0.0.0.0.      fapservice.com
 0.0.0.0       fapset.com
 0.0.0.0       fapster.xxx
 0.0.0.0       faptitans.com
