@@ -24629,7 +24629,6 @@
 0.0.0.0       yaoimangaonline.com
 0.0.0.0       yasamkocutr.com
 0.0.0.0       yasrinu.info
-0.0.0.0       yastatic.net
 0.0.0.0       yatra.yage.net
 0.0.0.0       yavz.xyz
 0.0.0.0       yaza.com.pk
