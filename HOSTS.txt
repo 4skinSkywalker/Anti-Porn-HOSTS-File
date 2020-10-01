@@ -916,6 +916,7 @@
 0.0.0.0       addblueoff.com.ua
 0.0.0.0       addelivery.thestreet.com
 0.0.0.0       addenly.info
+0.0.0.0       addicted2girls.com
 0.0.0.0       addictivetechnologies.net
 0.0.0.0       additcinggames.com
 0.0.0.0       addjump.com
@@ -5412,6 +5413,7 @@
 0.0.0.0       downstorfi.hostami.me
 0.0.0.0       downtane.hostami.me
 0.0.0.0       downtiocan.hostami.me
+0.0.0.0       downtofuckdating.com
 0.0.0.0       downvids.net
 0.0.0.0       downvientit.hostami.me
 0.0.0.0       downviovi.hostami.me
