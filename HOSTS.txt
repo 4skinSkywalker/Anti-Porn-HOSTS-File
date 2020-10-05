@@ -12488,7 +12488,6 @@
 0.0.0.0       nylonsweeties.com
 0.0.0.0       nylonsx.com
 0.0.0.0       nylonup.com
-0.0.0.0       nypost.com
 0.0.0.0       nysun.com.112.2o7.net
 0.0.0.0       nytbglobe.112.2o7.net
 0.0.0.0       nytglobe.112.2o7.net
