@@ -1,4 +1,4 @@
-# Anti porn HOSTS file
+# Anti Porn HOSTS File
 The purpose of this repository is to distribute a useful mean to fight porn addiction.
 
 If you are willing to improve your life and get rid of porn addiction then Google `NoFap®`.
