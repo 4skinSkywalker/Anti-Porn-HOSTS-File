@@ -19,6 +19,11 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
+### Using cygwin
+1. Right mouse click on Cygwin icon then click on 'Run as adminstrator`
+2. `cd` to where HOSTS.txt lives
+3. Run this command in Cygwin: `cat HOSTS.txt >> /cygdrive/c/Windows/System32/drivers/etc/hosts`
+4. Reboot
 
 ## HOSTS in Linux and macOS
 1. Open the terminal
