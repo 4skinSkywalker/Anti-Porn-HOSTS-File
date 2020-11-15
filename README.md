@@ -14,7 +14,7 @@ HOSTS.txt contains a huge list of porn sites (probably the biggest list you can 
 Just by copy-pasting its content on your machine's HOSTS file enables the blocking mechanism.
 
 ## HOSTS in Windows 7/8.x/10
-1. Right mouse click on Notepad icon then click on `Run as administrator
+1. Right mouse click on Notepad icon then click on `Run as administrator`
 2. File → Open... then insert the path `C:\windows\system32\drivers\etc\hosts`
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
