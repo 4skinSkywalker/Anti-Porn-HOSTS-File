@@ -27,7 +27,7 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 3. Run this command in Cygwin: `cat HOSTS.txt >> /cygdrive/c/Windows/System32/drivers/etc/hosts`
 4. Reboot
 
-The steps in Cygwin should work on in any POSIX compatible system running on Windows.
+The steps in Cygwin should be similar on in any POSIX compatible system running on Windows.
 
 ## HOSTS in Linux and macOS
 1. Open the terminal
