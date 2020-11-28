@@ -7288,6 +7288,7 @@
 0.0.0.0       funwap.sextgem.com
 0.0.0.0       funwebcams.com
 0.0.0.0       fuqer.com
+0.0.0.0       fuqqt.com
 0.0.0.0       fureverhomesdogrescue.com
 0.0.0.0       furious-angel.com
 0.0.0.0       furniturecom.112.2o7.net
@@ -21051,6 +21052,7 @@
 0.0.0.0       www.funwebcams.com
 0.0.0.0       www.fuq.com
 0.0.0.0       www.fuqer.com
+0.0.0.0       www.fuqqt.com
 0.0.0.0       www.furious-angel.com
 0.0.0.0       www.fuskator.com
 0.0.0.0       www.futahentai.com
