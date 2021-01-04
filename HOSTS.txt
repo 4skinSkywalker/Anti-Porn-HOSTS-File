@@ -25890,7 +25890,6 @@
 0.0.0.0       zumodi.com
 0.0.0.0       zurich-girls.ch
 0.0.0.0       zuverink.net
-0.0.0.0       zverokruh-shop.cz
 0.0.0.0       zvetki.ru
 0.0.0.0       zwariowane.pl
 0.0.0.0       zweiporn.com
