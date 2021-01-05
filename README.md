@@ -37,13 +37,15 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 5. Reboot
 
 ## HOSTS in Android
-1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-2. Download "HOSTS.txt" and put it somewhere inside your phone
-3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-4. Click on HOSTS EDITOR button
-5. Click on three dots top-right corner
-6. Import HOSTS file you previously downloaded
-7. Go back and START
+1. Install [DNS66](https://github.com/julian-klode/dns66#installing)
+2. Open [DNS66](https://github.com/julian-klode/dns66#installing)
+3. Click on HOSTS button to select the "HOSTS" section of the APP
+4. Click on the + floating button on the lower-right corner
+5. Insert a title of your choice and the following url: https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
+6. Save the filter you created by clicking the check mark on the top-right corner
+7. Press the refresh button on the top-right corner
+8. Go back to the "START" section of the APP and start it
+9. You should notice a symbol indicating an active VPN on your Android system
 
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
