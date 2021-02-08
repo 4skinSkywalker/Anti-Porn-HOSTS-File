@@ -36,7 +36,16 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 4. Save
 5. Reboot
 
-## HOSTS in Android
+## HOSTS in Android (method #1)
+1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
+2. Download "HOSTS.txt" and put it somewhere inside your phone
+3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
+4. Click on HOSTS EDITOR button
+5. Click on three dots top-right corner
+6. Import HOSTS file you previously downloaded
+7. Go back and START
+
+## HOSTS in Android (method #2)
 1. Install [DNS66](https://github.com/julian-klode/dns66#installing)
 2. Open [DNS66](https://github.com/julian-klode/dns66#installing)
 3. Click on HOSTS button to select the "HOSTS" section of the APP
