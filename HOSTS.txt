@@ -9384,6 +9384,7 @@
 0.0.0.0       hentaigasm.com
 0.0.0.0       hentaigratis.biz
 0.0.0.0       hentaihand.com
+0.0.0.0       hentaihaven.com
 0.0.0.0       hentaihaven.me
 0.0.0.0       hentaihaven.org
 0.0.0.0       hentaihaven.red
