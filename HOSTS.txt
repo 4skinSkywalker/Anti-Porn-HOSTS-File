@@ -13461,7 +13461,6 @@
 0.0.0.0    moxo.com
 0.0.0.0    moyaterapiya.ru
 0.0.0.0    mozebyctwoje.com
-0.0.0.0    mozilla.org
 0.0.0.0    moztna.com
 0.0.0.0    mpire.112.2o7.net
 0.0.0.0    mpmbooks.com
@@ -35905,7 +35904,6 @@
 0.0.0.0    www.moxo.com
 0.0.0.0    www.moyaterapiya.ru
 0.0.0.0    www.mozebyctwoje.com
-0.0.0.0    www.mozilla.org
 0.0.0.0    www.moztna.com
 0.0.0.0    www.mpire.112.2o7.net
 0.0.0.0    www.mpmbooks.com
