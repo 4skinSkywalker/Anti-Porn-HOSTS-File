@@ -2189,7 +2189,6 @@
 0.0.0.0       appgx.com
 0.0.0.0       appiq.mobi
 0.0.0.0       apple-tart.com
-0.0.0.0       apple.com
 0.0.0.0       apple.com-care-macbook-system.live
 0.0.0.0       apple.com-clean-macbook-system.live
 0.0.0.0       apple.com-speedup-macos.live
@@ -25433,7 +25432,6 @@
 0.0.0.0       www.appgx.com
 0.0.0.0       www.appiq.mobi
 0.0.0.0       www.apple-tart.com
-0.0.0.0       www.apple.com
 0.0.0.0       www.apple.com-care-macbook-system.live
 0.0.0.0       www.apple.com-clean-macbook-system.live
 0.0.0.0       www.apple.com-speedup-macos.live
