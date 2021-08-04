@@ -570,6 +570,7 @@
 0.0.0.0    adult.com
 0.0.0.0    adult.find-fm.com
 0.0.0.0    adult.mobile.home.park.sms13.de
+0.0.0.0    adult.noodlemagazine.com
 0.0.0.0    adult.sms.text.sms13.de
 0.0.0.0    adult.stem.cell.research.sms13.de
 0.0.0.0    adult.stem.cell.sms13.de
@@ -1019,6 +1020,7 @@
 0.0.0.0    analytics.rogersmedia.com
 0.0.0.0    analytics.siliconexpert.com
 0.0.0.0    analyzedgirls.com
+0.0.0.0    anarchyporn.com
 0.0.0.0    anatol.com
 0.0.0.0    ancensored.com
 0.0.0.0    ancestrymsn.112.2o7.net
@@ -5521,6 +5523,7 @@
 0.0.0.0    femaleuk.co.uk
 0.0.0.0    femcocks.com
 0.0.0.0    femcontrol.com
+0.0.0.0    femdom-bdsm.com
 0.0.0.0    femdom-fetish-tube.com
 0.0.0.0    femdom-life.com
 0.0.0.0    femdom-pov.net
@@ -5976,6 +5979,7 @@
 0.0.0.0    free-movie.info
 0.0.0.0    free-online-dating-services.info
 0.0.0.0    free-porn-clips.biz
+0.0.0.0    free-porn-videos.club
 0.0.0.0    free-rewards.com-s.tv
 0.0.0.0    free-sex-cat.com
 0.0.0.0    free-sexxx.info
@@ -6096,6 +6100,7 @@
 0.0.0.0    freeporn4everyone.blogspot.sk
 0.0.0.0    freepornclips.com
 0.0.0.0    freeporncomics.net
+0.0.0.0    freepornfinder.net
 0.0.0.0    freepornfull.com
 0.0.0.0    freepornhq.xxx
 0.0.0.0    freeporno.xxx
@@ -6741,6 +6746,7 @@
 0.0.0.0    givemeyoung.com
 0.0.0.0    given2.com
 0.0.0.0    giveskincs.nd.pl
+0.0.0.0    gizmoxxx.com
 0.0.0.0    gk-atlant.info
 0.0.0.0    gkb.com.au
 0.0.0.0    gkye.com
@@ -6775,6 +6781,7 @@
 0.0.0.0    gms1.ru
 0.0.0.0    gneill.com
 0.0.0.0    gntai.xyz
+0.0.0.0    go-indian.pro
 0.0.0.0    go-quicky.com
 0.0.0.0    go-sexogostoso.tumblr.com
 0.0.0.0    go.ad1data.com
@@ -7271,6 +7278,7 @@
 0.0.0.0    hdseriale.pl
 0.0.0.0    hdsessovideo.com
 0.0.0.0    hdsex.club
+0.0.0.0    hdsex.org
 0.0.0.0    hdsexdino.com
 0.0.0.0    hdsexypicture.wordpress.com
 0.0.0.0    hdtube.com
@@ -7291,6 +7299,7 @@
 0.0.0.0    heartbeats.omtrdc.net
 0.0.0.0    heatherstarletxxx.com
 0.0.0.0    heatpower.ru
+0.0.0.0    heatworld.com
 0.0.0.0    heavenlytits.com
 0.0.0.0    heavensangelsreadings.com
 0.0.0.0    heavy-r.com
@@ -8355,6 +8364,7 @@
 0.0.0.0    it.chaturbate.com
 0.0.0.0    it.cookiescript.info
 0.0.0.0    it.eporner.com
+0.0.0.0    it.hdsex.org
 0.0.0.0    it.iporntv.net
 0.0.0.0    it.m.xhamster.com
 0.0.0.0    it.porn.com
@@ -8363,7 +8373,9 @@
 0.0.0.0    it.sex.com
 0.0.0.0    it.spankbang.com
 0.0.0.0    it.txxx.com
+0.0.0.0    it.videosection.com
 0.0.0.0    it.xhamster.com
+0.0.0.0    it.xhamster13.desi
 0.0.0.0    it.xvideos.com
 0.0.0.0    it.youporn.com
 0.0.0.0    itaketwo.com
@@ -8798,6 +8810,8 @@
 0.0.0.0    karpun-iris.ru
 0.0.0.0    kartavisa.pl
 0.0.0.0    karupsha.com
+0.0.0.0    kashtanka.mobi
+0.0.0.0    kashtanka2.com
 0.0.0.0    kasino-suomi.com
 0.0.0.0    kaspersky-shop.ch
 0.0.0.0    kaspersky.d3.sc.omtrdc.net
@@ -8838,6 +8852,7 @@
 0.0.0.0    kellnerengenharia.com.br
 0.0.0.0    kellykarousi.gr
 0.0.0.0    kendralustxxx.com
+0.0.0.0    kenxxx.com
 0.0.0.0    keralaholidayspackage.com
 0.0.0.0    kergaukr.com
 0.0.0.0    kerplat.112.2o7.net
@@ -10221,6 +10236,7 @@
 0.0.0.0    mexico.prepaid.phone.card.sms13.de
 0.0.0.0    mezczyzna-trendy.pl
 0.0.0.0    mf.advantage.as
+0.0.0.0    mffetish.com
 0.0.0.0    mgba.org
 0.0.0.0    mgmforex.com
 0.0.0.0    mgtricities.112.2o7.net
@@ -12004,6 +12020,7 @@
 0.0.0.0    oxotube.com
 0.0.0.0    oxy-gen.com
 0.0.0.0    oynat.info
+0.0.0.0    oyoh.com
 0.0.0.0    oz-offers.com
 0.0.0.0    ozeex.com
 0.0.0.0    ozertesa.com
@@ -12978,6 +12995,7 @@
 0.0.0.0    pornogids.net
 0.0.0.0    pornoglamour.com
 0.0.0.0    pornognom.cz
+0.0.0.0    pornogramxxx.com
 0.0.0.0    pornography.nu
 0.0.0.0    pornogratis.tv.br
 0.0.0.0    pornogratisfilm.com
@@ -13094,6 +13112,7 @@
 0.0.0.0    pornovideoshub.com
 0.0.0.0    pornovka.cz
 0.0.0.0    pornovore.fr
+0.0.0.0    pornowaytube.com
 0.0.0.0    pornowithteen.com
 0.0.0.0    pornoworld.dk
 0.0.0.0    pornoxduro.com
@@ -14417,6 +14436,7 @@
 0.0.0.0    sambaporno.com
 0.0.0.0    sammachivonline.com
 0.0.0.0    sammyboyforum.com
+0.0.0.0    samogo.net
 0.0.0.0    samolet.fr
 0.0.0.0    samsclub.112.2o7.net
 0.0.0.0    samsung.flip.phone.sms13.de
@@ -14796,6 +14816,7 @@
 0.0.0.0    sexbabesvr.com
 0.0.0.0    sexbilla.sextgem.com
 0.0.0.0    sexblog.pw
+0.0.0.0    sexbombo.com
 0.0.0.0    sexcam.pink
 0.0.0.0    sexcamamateurchat.com
 0.0.0.0    sexcamdb.com
@@ -16782,6 +16803,7 @@
 0.0.0.0    trendmd.com
 0.0.0.0    trendmicrojp.d2.sc.omtrdc.net
 0.0.0.0    trendnews.com
+0.0.0.0    trendpornvids.com
 0.0.0.0    trendsonline.biz
 0.0.0.0    trennkost-pyramide.de
 0.0.0.0    treppenfabrik.de
@@ -17384,6 +17406,7 @@
 0.0.0.0    videos.apornstories.com
 0.0.0.0    videos666.com
 0.0.0.0    videosbox.ru
+0.0.0.0    videosection.com
 0.0.0.0    videosexarchive.com
 0.0.0.0    videosexe.biz
 0.0.0.0    videosexoonline.com
@@ -18768,6 +18791,7 @@
 0.0.0.0    www.adult.com
 0.0.0.0    www.adult.find-fm.com
 0.0.0.0    www.adult.mobile.home.park.sms13.de
+0.0.0.0    www.adult.noodlemagazine.com
 0.0.0.0    www.adult.sms.text.sms13.de
 0.0.0.0    www.adult.stem.cell.research.sms13.de
 0.0.0.0    www.adult.stem.cell.sms13.de
@@ -19217,6 +19241,7 @@
 0.0.0.0    www.analytics.rogersmedia.com
 0.0.0.0    www.analytics.siliconexpert.com
 0.0.0.0    www.analyzedgirls.com
+0.0.0.0    www.anarchyporn.com
 0.0.0.0    www.anatol.com
 0.0.0.0    www.ancensored.com
 0.0.0.0    www.ancestrymsn.112.2o7.net
@@ -23719,6 +23744,7 @@
 0.0.0.0    www.femaleuk.co.uk
 0.0.0.0    www.femcocks.com
 0.0.0.0    www.femcontrol.com
+0.0.0.0    www.femdom-bdsm.com
 0.0.0.0    www.femdom-fetish-tube.com
 0.0.0.0    www.femdom-life.com
 0.0.0.0    www.femdom-pov.net
@@ -24174,6 +24200,7 @@
 0.0.0.0    www.free-movie.info
 0.0.0.0    www.free-online-dating-services.info
 0.0.0.0    www.free-porn-clips.biz
+0.0.0.0    www.free-porn-videos.club
 0.0.0.0    www.free-rewards.com-s.tv
 0.0.0.0    www.free-sex-cat.com
 0.0.0.0    www.free-sexxx.info
@@ -24294,6 +24321,7 @@
 0.0.0.0    www.freeporn4everyone.blogspot.sk
 0.0.0.0    www.freepornclips.com
 0.0.0.0    www.freeporncomics.net
+0.0.0.0    www.freepornfinder.net
 0.0.0.0    www.freepornfull.com
 0.0.0.0    www.freepornhq.xxx
 0.0.0.0    www.freeporno.xxx
@@ -24939,6 +24967,7 @@
 0.0.0.0    www.givemeyoung.com
 0.0.0.0    www.given2.com
 0.0.0.0    www.giveskincs.nd.pl
+0.0.0.0    www.gizmoxxx.com
 0.0.0.0    www.gk-atlant.info
 0.0.0.0    www.gkb.com.au
 0.0.0.0    www.gkye.com
@@ -24973,6 +25002,7 @@
 0.0.0.0    www.gms1.ru
 0.0.0.0    www.gneill.com
 0.0.0.0    www.gntai.xyz
+0.0.0.0    www.go-indian.pro
 0.0.0.0    www.go-quicky.com
 0.0.0.0    www.go-sexogostoso.tumblr.com
 0.0.0.0    www.go.ad1data.com
@@ -25469,6 +25499,7 @@
 0.0.0.0    www.hdseriale.pl
 0.0.0.0    www.hdsessovideo.com
 0.0.0.0    www.hdsex.club
+0.0.0.0    www.hdsex.org
 0.0.0.0    www.hdsexdino.com
 0.0.0.0    www.hdsexypicture.wordpress.com
 0.0.0.0    www.hdtube.com
@@ -25489,6 +25520,7 @@
 0.0.0.0    www.heartbeats.omtrdc.net
 0.0.0.0    www.heatherstarletxxx.com
 0.0.0.0    www.heatpower.ru
+0.0.0.0    www.heatworld.com
 0.0.0.0    www.heavenlytits.com
 0.0.0.0    www.heavensangelsreadings.com
 0.0.0.0    www.heavy-r.com
@@ -26553,6 +26585,7 @@
 0.0.0.0    www.it.chaturbate.com
 0.0.0.0    www.it.cookiescript.info
 0.0.0.0    www.it.eporner.com
+0.0.0.0    www.it.hdsex.org
 0.0.0.0    www.it.iporntv.net
 0.0.0.0    www.it.m.xhamster.com
 0.0.0.0    www.it.porn.com
@@ -26561,7 +26594,9 @@
 0.0.0.0    www.it.sex.com
 0.0.0.0    www.it.spankbang.com
 0.0.0.0    www.it.txxx.com
+0.0.0.0    www.it.videosection.com
 0.0.0.0    www.it.xhamster.com
+0.0.0.0    www.it.xhamster13.desi
 0.0.0.0    www.it.xvideos.com
 0.0.0.0    www.it.youporn.com
 0.0.0.0    www.itaketwo.com
@@ -26996,6 +27031,8 @@
 0.0.0.0    www.karpun-iris.ru
 0.0.0.0    www.kartavisa.pl
 0.0.0.0    www.karupsha.com
+0.0.0.0    www.kashtanka.mobi
+0.0.0.0    www.kashtanka2.com
 0.0.0.0    www.kasino-suomi.com
 0.0.0.0    www.kaspersky-shop.ch
 0.0.0.0    www.kaspersky.d3.sc.omtrdc.net
@@ -27036,6 +27073,7 @@
 0.0.0.0    www.kellnerengenharia.com.br
 0.0.0.0    www.kellykarousi.gr
 0.0.0.0    www.kendralustxxx.com
+0.0.0.0    www.kenxxx.com
 0.0.0.0    www.keralaholidayspackage.com
 0.0.0.0    www.kergaukr.com
 0.0.0.0    www.kerplat.112.2o7.net
@@ -28419,6 +28457,7 @@
 0.0.0.0    www.mexico.prepaid.phone.card.sms13.de
 0.0.0.0    www.mezczyzna-trendy.pl
 0.0.0.0    www.mf.advantage.as
+0.0.0.0    www.mffetish.com
 0.0.0.0    www.mgba.org
 0.0.0.0    www.mgmforex.com
 0.0.0.0    www.mgtricities.112.2o7.net
@@ -30202,6 +30241,7 @@
 0.0.0.0    www.oxotube.com
 0.0.0.0    www.oxy-gen.com
 0.0.0.0    www.oynat.info
+0.0.0.0    www.oyoh.com
 0.0.0.0    www.oz-offers.com
 0.0.0.0    www.ozeex.com
 0.0.0.0    www.ozertesa.com
@@ -31176,6 +31216,7 @@
 0.0.0.0    www.pornogids.net
 0.0.0.0    www.pornoglamour.com
 0.0.0.0    www.pornognom.cz
+0.0.0.0    www.pornogramxxx.com
 0.0.0.0    www.pornography.nu
 0.0.0.0    www.pornogratis.tv.br
 0.0.0.0    www.pornogratisfilm.com
@@ -31292,6 +31333,7 @@
 0.0.0.0    www.pornovideoshub.com
 0.0.0.0    www.pornovka.cz
 0.0.0.0    www.pornovore.fr
+0.0.0.0    www.pornowaytube.com
 0.0.0.0    www.pornowithteen.com
 0.0.0.0    www.pornoworld.dk
 0.0.0.0    www.pornoxduro.com
@@ -32615,6 +32657,7 @@
 0.0.0.0    www.sambaporno.com
 0.0.0.0    www.sammachivonline.com
 0.0.0.0    www.sammyboyforum.com
+0.0.0.0    www.samogo.net
 0.0.0.0    www.samolet.fr
 0.0.0.0    www.samsclub.112.2o7.net
 0.0.0.0    www.samsung.flip.phone.sms13.de
@@ -32994,6 +33037,7 @@
 0.0.0.0    www.sexbabesvr.com
 0.0.0.0    www.sexbilla.sextgem.com
 0.0.0.0    www.sexblog.pw
+0.0.0.0    www.sexbombo.com
 0.0.0.0    www.sexcam.pink
 0.0.0.0    www.sexcamamateurchat.com
 0.0.0.0    www.sexcamdb.com
@@ -34980,6 +35024,7 @@
 0.0.0.0    www.trendmd.com
 0.0.0.0    www.trendmicrojp.d2.sc.omtrdc.net
 0.0.0.0    www.trendnews.com
+0.0.0.0    www.trendpornvids.com
 0.0.0.0    www.trendsonline.biz
 0.0.0.0    www.trennkost-pyramide.de
 0.0.0.0    www.treppenfabrik.de
@@ -35582,6 +35627,7 @@
 0.0.0.0    www.videos.apornstories.com
 0.0.0.0    www.videos666.com
 0.0.0.0    www.videosbox.ru
+0.0.0.0    www.videosection.com
 0.0.0.0    www.videosexarchive.com
 0.0.0.0    www.videosexe.biz
 0.0.0.0    www.videosexoonline.com
@@ -36613,6 +36659,7 @@
 0.0.0.0    www.xnxx.vip
 0.0.0.0    www.xnxx1.biz
 0.0.0.0    www.xnxx1.net
+0.0.0.0    www.xnxx2.info
 0.0.0.0    www.xnxx2.pro
 0.0.0.0    www.xnxx2.site
 0.0.0.0    www.xnxxandxvideos.com
@@ -36671,6 +36718,7 @@
 0.0.0.0    www.xsearch.pl
 0.0.0.0    www.xsearch.tv
 0.0.0.0    www.xsexcomics.com
+0.0.0.0    www.xshaker.net
 0.0.0.0    www.xsober.com
 0.0.0.0    www.xstatic.nk-net.pl
 0.0.0.0    www.xstreams.to
@@ -36953,6 +37001,7 @@
 0.0.0.0    www.yougoggle.com
 0.0.0.0    www.youhavetofaponthesebeforeyoudie.tumblr.com
 0.0.0.0    www.youjizz.com
+0.0.0.0    www.youjizz.sex
 0.0.0.0    www.youjizzz.pro
 0.0.0.0    www.young-fuck.com
 0.0.0.0    www.young-teen-pussy.com
@@ -37487,6 +37536,7 @@
 0.0.0.0    xnxx.vip
 0.0.0.0    xnxx1.biz
 0.0.0.0    xnxx1.net
+0.0.0.0    xnxx2.info
 0.0.0.0    xnxx2.pro
 0.0.0.0    xnxx2.site
 0.0.0.0    xnxxandxvideos.com
@@ -37545,6 +37595,7 @@
 0.0.0.0    xsearch.pl
 0.0.0.0    xsearch.tv
 0.0.0.0    xsexcomics.com
+0.0.0.0    xshaker.net
 0.0.0.0    xsober.com
 0.0.0.0    xstatic.nk-net.pl
 0.0.0.0    xstreams.to
@@ -37827,6 +37878,7 @@
 0.0.0.0    yougoggle.com
 0.0.0.0    youhavetofaponthesebeforeyoudie.tumblr.com
 0.0.0.0    youjizz.com
+0.0.0.0    youjizz.sex
 0.0.0.0    youjizzz.pro
 0.0.0.0    young-fuck.com
 0.0.0.0    young-teen-pussy.com
