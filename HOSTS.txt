@@ -2307,6 +2307,7 @@
 0.0.0.0    bluesman.nu
 0.0.0.0    bluewaffle.biz
 0.0.0.0    bluewhaleweb.com
+0.0.0.0    blumpkintube.com
 0.0.0.0    blushingbeast.com
 0.0.0.0    blushingboundary.com
 0.0.0.0    bluyonder.co.uk
@@ -7304,6 +7305,7 @@
 0.0.0.0    heavensangelsreadings.com
 0.0.0.0    heavy-r.com
 0.0.0.0    heavycom.112.2o7.net
+0.0.0.0    heavyfetish.com
 0.0.0.0    hebdotop.com
 0.0.0.0    hebita.com
 0.0.0.0    hedefzirve.com.tr
@@ -13949,6 +13951,7 @@
 0.0.0.0    redwap.me
 0.0.0.0    redwap.pro
 0.0.0.0    redwap.xyz
+0.0.0.0    redwap2.com
 0.0.0.0    redwapxxx.pro
 0.0.0.0    redzon.com
 0.0.0.0    reelheroes.net
@@ -20528,6 +20531,7 @@
 0.0.0.0    www.bluesman.nu
 0.0.0.0    www.bluewaffle.biz
 0.0.0.0    www.bluewhaleweb.com
+0.0.0.0    www.blumpkintube.com
 0.0.0.0    www.blushingbeast.com
 0.0.0.0    www.blushingboundary.com
 0.0.0.0    www.bluyonder.co.uk
@@ -25525,6 +25529,7 @@
 0.0.0.0    www.heavensangelsreadings.com
 0.0.0.0    www.heavy-r.com
 0.0.0.0    www.heavycom.112.2o7.net
+0.0.0.0    www.heavyfetish.com
 0.0.0.0    www.hebdotop.com
 0.0.0.0    www.hebita.com
 0.0.0.0    www.hedefzirve.com.tr
@@ -32170,6 +32175,7 @@
 0.0.0.0    www.redwap.me
 0.0.0.0    www.redwap.pro
 0.0.0.0    www.redwap.xyz
+0.0.0.0    www.redwap2.com
 0.0.0.0    www.redwapxxx.pro
 0.0.0.0    www.redzon.com
 0.0.0.0    www.reelheroes.net
@@ -36551,6 +36557,7 @@
 0.0.0.0    www.xes.pl
 0.0.0.0    www.xfantasy.tv
 0.0.0.0    www.xfantazy.com
+0.0.0.0    www.xfemaledom.com
 0.0.0.0    www.xfig.net
 0.0.0.0    www.xfinity.com
 0.0.0.0    www.xfreehd.com
@@ -37428,6 +37435,7 @@
 0.0.0.0    xes.pl
 0.0.0.0    xfantasy.tv
 0.0.0.0    xfantazy.com
+0.0.0.0    xfemaledom.com
 0.0.0.0    xfig.net
 0.0.0.0    xfinity.com
 0.0.0.0    xfreehd.com
