@@ -18316,8 +18316,6 @@
 0.0.0.0    thenude.com
 0.0.0.0    theonlygames.com
 0.0.0.0    theperfectboobs.net
-0.0.0.0    thepiratebay.lv
-0.0.0.0    thepiratebay.org
 0.0.0.0    thepiratepartybay.com
 0.0.0.0    theplumberschoice.store
 0.0.0.0    thepokertimer.com
@@ -37898,8 +37896,6 @@
 0.0.0.0    www.theonlygames.com
 0.0.0.0    www.theperfectboobs.net
 0.0.0.0    www.thepinupfiles.com
-0.0.0.0    www.thepiratebay.lv
-0.0.0.0    www.thepiratebay.org
 0.0.0.0    www.thepiratepartybay.com
 0.0.0.0    www.theplumberschoice.store
 0.0.0.0    www.thepokertimer.com
