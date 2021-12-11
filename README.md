@@ -1,3 +1,5 @@
+A fork from https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File
+
 # Anti Porn HOSTS File
 The purpose of this repository is to distribute a useful mean to fight porn addiction.
 
@@ -60,21 +62,3 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 Once the mechanism is in place and working, do not disable it.
 
 If you disable it on demand to watch porns then you defeat the very purpose of it, but more than that you betray yourself.
-
-## Contribute
-
-Become an open source contributor in 7 steps (_it takes less than 30 minutes_):
-1. Fork this repository
-2. Clone the repository into your PC
-3. Create a new branch
-4. Change whatever you think it has to be improved
-5. Commit your changes
-6. Push your changes to GitHub
-7. Submit a PR
-
-Your changes **won't be visible immediately**; first they have to be merged by the project maintainer.
-
-## Donation
-If you feel like you want to donate something
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3UN95QQCD4B7E)
