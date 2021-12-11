@@ -4402,7 +4402,6 @@
 0.0.0.0    de.ioam.de
 0.0.0.0    de.m.xhamster.com
 0.0.0.0    de.matureclub.com
-0.0.0.0    de.moneroocean.stream
 0.0.0.0    de.porn.com
 0.0.0.0    de.pornhub.com
 0.0.0.0    de.pornosearch.guru
@@ -7846,7 +7845,6 @@
 0.0.0.0    guildebzh.info
 0.0.0.0    guitarmaniac9405.tumblr.com
 0.0.0.0    gulf-industrial.com
-0.0.0.0    gulf.moneroocean.stream
 0.0.0.0    gulfsexx.com
 0.0.0.0    gullivershouse.com
 0.0.0.0    gulzig.nl
@@ -11762,7 +11760,6 @@
 0.0.0.0    monero.crypto-webminer.com
 0.0.0.0    monero.hashvault.pro
 0.0.0.0    monerominer.rocks
-0.0.0.0    moneroocean.stream
 0.0.0.0    monetisetrk.co.uk
 0.0.0.0    monetisetrk2.co.uk
 0.0.0.0    monetisetrk3.co.uk
@@ -19237,7 +19234,6 @@
 0.0.0.0    us-sonar.sociomantic.com
 0.0.0.0    us-u.openx.net
 0.0.0.0    us.dateefy.com
-0.0.0.0    us.moneroocean.stream
 0.0.0.0    us3.cpufan.club
 0.0.0.0    usaaug.com
 0.0.0.0    usabilitytesten.nl
@@ -24607,7 +24603,6 @@
 0.0.0.0    www.de.freeones.com
 0.0.0.0    www.de.ioam.de
 0.0.0.0    www.de.m.xhamster.com
-0.0.0.0    www.de.moneroocean.stream
 0.0.0.0    www.de.porn.com
 0.0.0.0    www.de.pornhub.com
 0.0.0.0    www.de.redtube.com
@@ -27938,7 +27933,6 @@
 0.0.0.0    www.guildebzh.info
 0.0.0.0    www.guitarmaniac9405.tumblr.com
 0.0.0.0    www.gulf-industrial.com
-0.0.0.0    www.gulf.moneroocean.stream
 0.0.0.0    www.gulfsexx.com
 0.0.0.0    www.gullivershouse.com
 0.0.0.0    www.gulzig.nl
@@ -30396,6 +30390,8 @@
 0.0.0.0    www.letubeusa.com
 0.0.0.0    www.leukcontact.nl
 0.0.0.0    www.lev-livet.se
+0.0.0.0    www.brazzers3x.tv
+0.0.0.0    www.goodporn.to
 0.0.0.0    www.levelporn.com
 0.0.0.0    www.levelsex.com
 0.0.0.0    www.levrei.de
@@ -31671,7 +31667,6 @@
 0.0.0.0    www.monero.crypto-webminer.com
 0.0.0.0    www.monero.hashvault.pro
 0.0.0.0    www.monerominer.rocks
-0.0.0.0    www.moneroocean.stream
 0.0.0.0    www.monetisetrk.co.uk
 0.0.0.0    www.monetisetrk2.co.uk
 0.0.0.0    www.monetisetrk3.co.uk
@@ -38749,7 +38744,6 @@
 0.0.0.0    www.us-america.ru
 0.0.0.0    www.us-sonar.sociomantic.com
 0.0.0.0    www.us-u.openx.net
-0.0.0.0    www.us.moneroocean.stream
 0.0.0.0    www.us3.cpufan.club
 0.0.0.0    www.usaaug.com
 0.0.0.0    www.usabilitytesten.nl
