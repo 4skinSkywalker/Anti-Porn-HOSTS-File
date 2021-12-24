@@ -29,12 +29,11 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 
 The steps in Cygwin should be similar on in any POSIX compatible system running on Windows.
 
-## HOSTS in Linux and macOS
+## HOSTS in Linux
 1. Open the terminal
-2. Type `sudo cp /etc/hosts /etc/hosts.bak'
+2. `sudo cp /etc/hosts /etc/hosts.bak'
 3. `sudo curl curl https://raw.githubusercontent.com/levimake/Anti-Porn-HOSTS-File/master/HOSTS.txt >> /etc/hosts`
-4. Save
-5. Reboot
+4. `sudo systemctl restart NetworkManager.service`
 
 ## HOSTS in Android (method #1)
 1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
