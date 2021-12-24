@@ -31,8 +31,8 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 
 ## HOSTS in Linux and macOS
 1. Open the terminal
-2. Type `sudo vim /etc/hosts`
-3. Add a new line and copy-paste the entire content of HOSTS.txt
+2. Type `sudo cp /etc/hosts /etc/hosts.bak'
+3. `sudo curl curl https://raw.githubusercontent.com/levimake/Anti-Porn-HOSTS-File/master/HOSTS.txt >> /etc/hosts`
 4. Save
 5. Reboot
 
