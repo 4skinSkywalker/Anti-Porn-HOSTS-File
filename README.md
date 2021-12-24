@@ -32,7 +32,7 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 ## HOSTS in Linux
 1. Open the terminal
 2. `sudo cp /etc/hosts /etc/hosts.bak`
-3. `sudo curl curl https://raw.githubusercontent.com/levimake/Anti-Porn-HOSTS-File/master/HOSTS.txt >> /etc/hosts`
+3. `sudo curl https://raw.githubusercontent.com/levimake/Anti-Porn-HOSTS-File/master/HOSTS.txt >> /etc/hosts`
 4. `sudo systemctl restart NetworkManager.service`
 
 ## HOSTS in Android (method #1)
