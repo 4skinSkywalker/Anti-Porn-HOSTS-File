@@ -72,8 +72,3 @@ Become an open source contributor in 7 steps (_it takes less than 30 minutes_):
 7. Submit a PR
 
 Your changes **won't be visible immediately**; first they have to be merged by the project maintainer.
-
-## Donation
-If you feel like you want to donate something
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3UN95QQCD4B7E)
