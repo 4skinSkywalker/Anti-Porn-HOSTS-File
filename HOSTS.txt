@@ -13175,7 +13175,6 @@
 0.0.0.0    onescreen.cc
 0.0.0.0    oneshotdate.com
 0.0.0.0    onesidelovex.com
-0.0.0.0    onesignal.com
 0.0.0.0    onet.hit.gemius.pl
 0.0.0.0    onewindedangels.creezvotreforum.com
 0.0.0.0    onex01615.top
@@ -15533,7 +15532,6 @@
 0.0.0.0    rebelsubway.com
 0.0.0.0    rebid.com
 0.0.0.0    reblop.com
-0.0.0.0    rebrand.ly
 0.0.0.0    rec-tube.com
 0.0.0.0    recentpasswords.com
 0.0.0.0    receptiveink.com
@@ -19628,7 +19626,6 @@
 0.0.0.0    vitanail.ru
 0.0.0.0    vitaplan.rs
 0.0.0.0    vitorrentz.in
-0.0.0.0    vivaldi.com
 0.0.0.0    vivatube.com
 0.0.0.0    vivaweb.org
 0.0.0.0    viven.host.sk
@@ -33031,7 +33028,6 @@
 0.0.0.0    www.onescreen.cc
 0.0.0.0    www.oneshotdate.com
 0.0.0.0    www.onesidelovex.com
-0.0.0.0    www.onesignal.com
 0.0.0.0    www.onet.hit.gemius.pl
 0.0.0.0    www.onewindedangels.creezvotreforum.com
 0.0.0.0    www.onlaintv.net
@@ -35268,7 +35264,6 @@
 0.0.0.0    www.rebelsubway.com
 0.0.0.0    www.rebid.com
 0.0.0.0    www.reblop.com
-0.0.0.0    www.rebrand.ly
 0.0.0.0    www.receptiveink.com
 0.0.0.0    www.receptivereaction.com
 0.0.0.0    www.recipedays.com
@@ -39120,7 +39115,6 @@
 0.0.0.0    www.vitaplan.rs
 0.0.0.0    www.vitorrentz.in
 0.0.0.0    www.vivagals.com
-0.0.0.0    www.vivaldi.com
 0.0.0.0    www.vivatube.com
 0.0.0.0    www.vivaweb.org
 0.0.0.0    www.viven.host.sk
