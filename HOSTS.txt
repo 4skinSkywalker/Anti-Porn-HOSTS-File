@@ -2096,7 +2096,6 @@
 0.0.0.0    bdsmvideos.net
 0.0.0.0    bdsmxxxmovies.com
 0.0.0.0    bdv.bidvertiser.com
-0.0.0.0    be
 0.0.0.0    be-onlinemarketing.com
 0.0.0.0    be-wild.pl
 0.0.0.0    be.pornosearch.guru
@@ -5543,7 +5542,7 @@
 0.0.0.0    eroticneko.tumblr.com
 0.0.0.0    eroticnetwork.net
 0.0.0.0    eroticpics.com
-0.0.0.0    eroticpics.com	
+0.0.0.0    eroticpics.com
 0.0.0.0    eroticproviderguide.com
 0.0.0.0    eroticrelease.com
 0.0.0.0    erotictonaughty.com
@@ -16782,7 +16781,7 @@
 0.0.0.0    sexypornstargifs.tumblr.com
 0.0.0.0    sexypp.com
 0.0.0.0    sexystream.cz
-0.0.0.0    sexystream.cz	
+0.0.0.0    sexystream.cz
 0.0.0.0    sexytoonporn.com
 0.0.0.0    sexytout.com
 0.0.0.0    sexytube.com
@@ -25723,7 +25722,7 @@
 0.0.0.0    www.eroticneko.tumblr.com
 0.0.0.0    www.eroticnetwork.net
 0.0.0.0    www.eroticpics.com
-0.0.0.0    www.eroticpics.com	
+0.0.0.0    www.eroticpics.com
 0.0.0.0    www.eroticproviderguide.com
 0.0.0.0    www.eroticrelease.com
 0.0.0.0    www.erotictonaughty.com
@@ -36449,7 +36448,7 @@
 0.0.0.0    www.sexypornstargifs.tumblr.com
 0.0.0.0    www.sexypornvideo.org
 0.0.0.0    www.sexystream.cz
-0.0.0.0    www.sexystream.cz	
+0.0.0.0    www.sexystream.cz
 0.0.0.0    www.sexytoonporn.com
 0.0.0.0    www.sexytout.com
 0.0.0.0    www.sexytube.com
@@ -41397,7 +41396,6 @@
 0.0.0.0    xxxtube.com
 0.0.0.0    xxxtube2022.com
 0.0.0.0    xxxtube69.com
-0.0.0.0    xxxtubeasian
 0.0.0.0    xxxtubebest.com
 0.0.0.0    xxxtubezoo.com
 0.0.0.0    xxxvideo4.com
