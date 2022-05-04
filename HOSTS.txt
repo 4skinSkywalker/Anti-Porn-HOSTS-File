@@ -19447,7 +19447,6 @@
 0.0.0.0    videocop.com
 0.0.0.0    videogamesecrets.com
 0.0.0.0    videohd.net
-0.0.0.0    videolan.org
 0.0.0.0    videolucah.mobi
 0.0.0.0    videomonstr.com
 0.0.0.0    videooko.weebly.com
@@ -38957,7 +38956,6 @@
 0.0.0.0    www.videocop.com
 0.0.0.0    www.videogamesecrets.com
 0.0.0.0    www.videohd.net
-0.0.0.0    www.videolan.org
 0.0.0.0    www.videolucah.mobi
 0.0.0.0    www.videomonstr.com
 0.0.0.0    www.videooko.weebly.com
