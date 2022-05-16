@@ -8964,8 +8964,8 @@
 0.0.0.0    imgshost.net
 0.0.0.0    imgtaxi.com
 0.0.0.0    imgtornado.com
-0.0.0.0    imgur.com
 0.0.0.0    imhentai.net
+0.0.0.0    imhentai.xxx
 0.0.0.0    imitex-plus.ru
 0.0.0.0    imlive.com
 0.0.0.0    immensehoney.com
@@ -29005,8 +29005,8 @@
 0.0.0.0    www.imgshost.net
 0.0.0.0    www.imgtaxi.com
 0.0.0.0    www.imgtornado.com
-0.0.0.0    www.imgur.com
 0.0.0.0    www.imhentai.net
+0.0.0.0    www.imhentai.xxx
 0.0.0.0    www.imitex-plus.ru
 0.0.0.0    www.imlive.com
 0.0.0.0    www.immensehoney.com
