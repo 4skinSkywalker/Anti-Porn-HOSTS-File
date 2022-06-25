@@ -1,3 +1,7 @@
+0.0.0.0   www.hot.com
+0.0.0.0   www.new-york.bedpage.com
+0.0.0.0   monabhabhi.com
+0.0.0.0   tour.monabhabhi.com
 0.0.0.0    0.nextyourcontent.com
 0.0.0.0    000free.us
 0.0.0.0    0013langford.tumblr.com
