@@ -19,13 +19,20 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
+
+### Using Windows PowerShell
+1.  Open HOSTS.txt and add a newline to the beginning
+2.  Save and close HOSTS.txt
+3.  Open Windows PowerShell
+4.  Run this command in Windows PowerShell: `Get-Content HOSTS.txt | Add-Content "C:\windows\system32\drivers\etc\hosts"`
+
 ### Using Cygwin
 1. Open HOSTS.txt and add a newline to the beginning
-1. Save and close HOSTS.txt
-1. Right mouse click on Cygwin icon then click on 'Run as adminstrator`
-2. `cd` to where HOSTS.txt lives
-3. Run this command in Cygwin: `cat HOSTS.txt >> /cygdrive/c/Windows/System32/drivers/etc/hosts`
-4. Reboot
+2. Save and close HOSTS.txt
+3. Right mouse click on Cygwin icon then click on 'Run as adminstrator`
+4. `cd` to where HOSTS.txt lives
+5. Run this command in Cygwin: `cat HOSTS.txt >> /cygdrive/c/Windows/System32/drivers/etc/hosts`
+6. Reboot
 
 The steps in Cygwin should be similar on in any POSIX compatible system running on Windows.
 
