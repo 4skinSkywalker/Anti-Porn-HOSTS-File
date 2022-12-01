@@ -7239,7 +7239,6 @@
 0.0.0.0    fullporn.online
 0.0.0.0    fullsexmovs.com
 0.0.0.0    fullsize.ch
-0.0.0.0    fullstory.com
 0.0.0.0    fulltaboo.tv
 0.0.0.0    fullteenporn.com
 0.0.0.0    fullxcinema.com
@@ -13845,7 +13844,6 @@
 0.0.0.0    optimallimit.com
 0.0.0.0    optimalsporthealthclubs.com
 0.0.0.0    optimask-pro.com
-0.0.0.0    optimizely.com
 0.0.0.0    opus-sexy.com
 0.0.0.0    opwindend.net
 0.0.0.0    oqc.eu
