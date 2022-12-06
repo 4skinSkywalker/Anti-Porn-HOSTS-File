@@ -1,5 +1,3 @@
-0.0.0.0    watchgirls.live
-0.0.0.0    chatsexocam.com
 0.0.0.0    0.nextyourcontent.com
 0.0.0.0    000free.us
 0.0.0.0    0013langford.tumblr.com
@@ -208,7 +206,6 @@
 0.0.0.0    24xxx.porn
 0.0.0.0    25184.hittail.com
 0.0.0.0    2560.fd.mobile.tv.sms13.de
-0.0.0.0    284419414.log.optimizely.com
 0.0.0.0    2adultflashgames.com
 0.0.0.0    2amsports.com
 0.0.0.0    2beeg.me
@@ -3621,6 +3618,7 @@
 0.0.0.0    chatrandom.com
 0.0.0.0    chatroulette.com
 0.0.0.0    chatsex.xxx
+0.0.0.0    chatsexocam.com
 0.0.0.0    chatspin.com
 0.0.0.0    chatterbate.io
 0.0.0.0    chaturbate.club
@@ -7239,7 +7237,6 @@
 0.0.0.0    fullporn.online
 0.0.0.0    fullsexmovs.com
 0.0.0.0    fullsize.ch
-0.0.0.0    fullstory.com
 0.0.0.0    fulltaboo.tv
 0.0.0.0    fullteenporn.com
 0.0.0.0    fullxcinema.com
@@ -13845,7 +13842,6 @@
 0.0.0.0    optimallimit.com
 0.0.0.0    optimalsporthealthclubs.com
 0.0.0.0    optimask-pro.com
-0.0.0.0    optimizely.com
 0.0.0.0    opus-sexy.com
 0.0.0.0    opwindend.net
 0.0.0.0    oqc.eu
@@ -20622,6 +20618,7 @@
 0.0.0.0    watcherswebstore.com
 0.0.0.0    watcherswebsupport.com
 0.0.0.0    watchfreexxx.net
+0.0.0.0    watchgirls.live
 0.0.0.0    watchhindiporn.com
 0.0.0.0    watchindianporn.net
 0.0.0.0    watchingbas.com
@@ -21369,7 +21366,6 @@
 0.0.0.0    www.24xxx.porn
 0.0.0.0    www.25184.hittail.com
 0.0.0.0    www.2560.fd.mobile.tv.sms13.de
-0.0.0.0    www.284419414.log.optimizely.com
 0.0.0.0    www.2adultflashgames.com
 0.0.0.0    www.2amsports.com
 0.0.0.0    www.2beeg.me
@@ -24701,6 +24697,7 @@
 0.0.0.0    www.chatrandom.com
 0.0.0.0    www.chatroulette.com
 0.0.0.0    www.chatsex.xxx
+0.0.0.0    www.chatsexocam.com
 0.0.0.0    www.chatspin.com
 0.0.0.0    www.chatterbate.io
 0.0.0.0    www.chaturbate.club
@@ -28152,7 +28149,6 @@
 0.0.0.0    www.fullindiansex.com
 0.0.0.0    www.fullplayer.pl
 0.0.0.0    www.fullsize.ch
-0.0.0.0    www.fullstory.com
 0.0.0.0    www.fulltaboo.tv
 0.0.0.0    www.fullteenporn.com
 0.0.0.0    www.fulltrannytube.com
@@ -34508,7 +34504,6 @@
 0.0.0.0    www.optimallimit.com
 0.0.0.0    www.optimalsporthealthclubs.com
 0.0.0.0    www.optimask-pro.com
-0.0.0.0    www.optimizely.com
 0.0.0.0    www.opus-sexy.com
 0.0.0.0    www.opwindend.net
 0.0.0.0    www.oqc.eu
@@ -40920,6 +40915,7 @@
 0.0.0.0    www.watcherswebsupport.com
 0.0.0.0    www.watchfreepornsex.com
 0.0.0.0    www.watchfreexxx.net
+0.0.0.0    www.watchgirls.live
 0.0.0.0    www.watchindianporn.net
 0.0.0.0    www.watchingthat.com
 0.0.0.0    www.watchjavonline.com
