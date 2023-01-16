@@ -7369,6 +7369,7 @@
 0.0.0.0    fxstyle.net
 0.0.0.0    fxxx.pro
 0.0.0.0    fyxm.net
+0.0.0.0    fyptt.io
 0.0.0.0    g-c.com
 0.0.0.0    g-o-z-a-r.tumblr.com
 0.0.0.0    g.0x1f4b0.com
