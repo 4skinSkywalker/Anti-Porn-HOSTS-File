@@ -8420,6 +8420,7 @@
 0.0.0.0    hcomicbook.com
 0.0.0.0    hd-easyporn.com
 0.0.0.0    hd-filmy.net
+0.0.0.0    hd-porn.video
 0.0.0.0    hd-stream.pl
 0.0.0.0    hd18.de
 0.0.0.0    hd720kino.ru
@@ -29503,6 +29504,7 @@
 0.0.0.0    www.hcomicbook.com
 0.0.0.0    www.hd-easyporn.com
 0.0.0.0    www.hd-filmy.net
+0.0.0.0    www.hd-porn.video
 0.0.0.0    www.hd-stream.pl
 0.0.0.0    www.hd18.de
 0.0.0.0    www.hd720kino.ru
