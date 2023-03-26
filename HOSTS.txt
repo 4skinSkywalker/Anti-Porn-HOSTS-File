@@ -7381,9 +7381,9 @@
 0.0.0.0    fxporn.ninja
 0.0.0.0    fxstyle.net
 0.0.0.0    fxxx.pro
+0.0.0.0    fyptt.io
 0.0.0.0    fyptt.to
 0.0.0.0    fyxm.net
-0.0.0.0    fyptt.io
 0.0.0.0    g-c.com
 0.0.0.0    g-o-z-a-r.tumblr.com
 0.0.0.0    g.0x1f4b0.com
@@ -14482,7 +14482,6 @@
 0.0.0.0    picscout.com
 0.0.0.0    picsearch.com
 0.0.0.0    picsholder.com
-0.0.0.0    Picsholder.com
 0.0.0.0    picsnap.info
 0.0.0.0    picsnude.com
 0.0.0.0    picsporner.com
@@ -35362,7 +35361,6 @@
 0.0.0.0    www.picscout.com
 0.0.0.0    www.picsearch.com
 0.0.0.0    www.picsholder.com
-0.0.0.0    www.Picsholder.com
 0.0.0.0    www.picsnap.info
 0.0.0.0    www.picsnude.com
 0.0.0.0    www.picsporner.com
