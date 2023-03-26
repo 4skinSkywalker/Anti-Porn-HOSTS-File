@@ -5666,6 +5666,7 @@
 0.0.0.0    en.erkiss.club
 0.0.0.0    en.ersties.com
 0.0.0.0    en.gay-lounge.net
+0.0.0.0    en.hdsex.link
 0.0.0.0    en.hdsex.tv
 0.0.0.0    en.heydouga.com
 0.0.0.0    en.heyzo.com
@@ -8537,7 +8538,9 @@
 0.0.0.0    hdseriale.pl
 0.0.0.0    hdsessovideo.com
 0.0.0.0    hdsex.club
+0.0.0.0    hdsex.link
 0.0.0.0    hdsex.org
+0.0.0.0    hdsex.zone
 0.0.0.0    hdsexdino.com
 0.0.0.0    hdsexmovies.xxx
 0.0.0.0    hdsextube.xxx
