@@ -1578,7 +1578,9 @@
 0.0.0.0    aplcricket.co.nz
 0.0.0.0    apolloadlv.hit.gemius.pl
 0.0.0.0    apolloprogram.io
+0.0.0.0    aporn.cam
 0.0.0.0    apornmovie.com
+0.0.0.0    aporntv.com
 0.0.0.0    apornvideos.com
 0.0.0.0    aportun.com
 0.0.0.0    app.getresponse.com
@@ -10657,6 +10659,7 @@
 0.0.0.0    kathoeytube.com
 0.0.0.0    kathy.foceni.org
 0.0.0.0    katia-paliotti.com
+0.0.0.0    katitube.com
 0.0.0.0    katoeyclub.com
 0.0.0.0    katrintequilax.com
 0.0.0.0    katya-clover.com
@@ -44801,6 +44804,7 @@
 0.0.0.0    zestardshop.com
 0.0.0.0    zetgie.com.pl
 0.0.0.0    zettapetta.com
+0.0.0.0    zeusporn.com
 0.0.0.0    zevents.com
 0.0.0.0    zevera.com
 0.0.0.0    zexyvr.com
