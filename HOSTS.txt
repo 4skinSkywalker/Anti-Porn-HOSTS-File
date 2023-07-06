@@ -31142,7 +31142,6 @@
 0.0.0.0    opensilence.info
 0.0.0.0    opensoftwareupdate.com
 0.0.0.0    opensoftwareupdater.com
-0.0.0.0    openuserjs.org
 0.0.0.0    openx.angelsgroup.org.uk
 0.0.0.0    openx.apollo.lv
 0.0.0.0    openx.filestube.com
@@ -68579,7 +68578,6 @@
 0.0.0.0    www.opensilence.info
 0.0.0.0    www.opensoftwareupdate.com
 0.0.0.0    www.opensoftwareupdater.com
-0.0.0.0    www.openuserjs.org
 0.0.0.0    www.openx.apollo.lv
 0.0.0.0    www.openx.filestube.com
 0.0.0.0    www.openx.kokoma.pl
