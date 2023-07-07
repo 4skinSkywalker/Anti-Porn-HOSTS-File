@@ -38603,7 +38603,6 @@
 0.0.0.0    redbust.com
 0.0.0.0    redcamif.info
 0.0.0.0    redd.tube
-0.0.0.0    reddit.com
 0.0.0.0    reddit.rest
 0.0.0.0    redditporngif.com
 0.0.0.0    reddpics.com
@@ -73706,7 +73705,6 @@
 0.0.0.0    www.redbust.com
 0.0.0.0    www.redcamif.info
 0.0.0.0    www.redd.tube
-0.0.0.0    www.reddit.com
 0.0.0.0    www.reddpics.com
 0.0.0.0    www.redflava.com
 0.0.0.0    www.redfox-babes.blogspot.com
