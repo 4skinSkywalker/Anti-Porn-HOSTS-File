@@ -19398,6 +19398,7 @@
 0.0.0.0    hennojin.com
 0.0.0.0    hensus.com
 0.0.0.0    hentai0.com
+0.0.0.0    hentai20.io
 0.0.0.0    hentai24h.org
 0.0.0.0    hentai2read.com
 0.0.0.0    hentai2w.com
@@ -19410,6 +19411,7 @@
 0.0.0.0    hentai.animeholics.org
 0.0.0.0    hentai.animestigma.com
 0.0.0.0    hentaianime.tv
+0.0.0.0    hentai-anime.tv
 0.0.0.0    hentai-anime-xxx.com
 0.0.0.0    hentaianimezone.com
 0.0.0.0    hentai-archive.com
@@ -19418,6 +19420,7 @@
 0.0.0.0    hentaiasmr.moe
 0.0.0.0    hentaiaz.net
 0.0.0.0    hentaibaby.com
+0.0.0.0    hentaibar.com
 0.0.0.0    hentaibayonetta.com
 0.0.0.0    hentaibedta.net
 0.0.0.0    hentaibible.blogspot.com
@@ -19460,12 +19463,14 @@
 0.0.0.0    hentaiff.com
 0.0.0.0    hentaifit.com
 0.0.0.0    hentai-flash-game.blogspot.com
+0.0.0.0    hentaiflix.tv
 0.0.0.0    hentaif.net
 0.0.0.0    hentaifoda.com
 0.0.0.0    hentaiforce.net
 0.0.0.0    hentai-for.net
 0.0.0.0    hentai-foundry.com
 0.0.0.0    hentaifox.com
+0.0.0.0    hentaifox.tv
 0.0.0.0    hentaifox.xxx
 0.0.0.0    hentaifreak.org
 0.0.0.0    hentaifrenzy.net
@@ -19529,9 +19534,11 @@
 0.0.0.0    hentaikun.com
 0.0.0.0    hentailabs.com
 0.0.0.0    hentaila.com
+0.0.0.0    hentaila.tv
 0.0.0.0    hentailegendado.com
 0.0.0.0    hentailesbians.info
 0.0.0.0    hentailisting.com
+0.0.0.0    hentailoop.com
 0.0.0.0    hentailove.tv
 0.0.0.0    hentaimama.com
 0.0.0.0    hentaimama.io
@@ -20813,6 +20820,7 @@
 0.0.0.0    httpool.com
 0.0.0.0    httpp.gdn
 0.0.0.0    ht.tube8.com
+0.0.0.0    htube.com
 0.0.0.0    htvncdn.net
 0.0.0.0    hu.1cam.webcam
 0.0.0.0    hu5.dilekeji.com
@@ -27602,6 +27610,7 @@
 0.0.0.0    mhbakker.tumblr.com
 0.0.0.0    mhcams.com
 0.0.0.0    m.hentaiaz.net
+0.0.0.0    m.hentai-for.net
 0.0.0.0    m-hentai.net
 0.0.0.0    m.heyzo.biz
 0.0.0.0    mhi-systems.ru
@@ -38602,6 +38611,7 @@
 0.0.0.0    reiporno.com
 0.0.0.0    reiselinksammlung.de
 0.0.0.0    reisenburo.de
+0.0.0.0    reit-hentai.com
 0.0.0.0    rejalsgays.info
 0.0.0.0    reklamagaci.com
 0.0.0.0    reklama.neg.bg
@@ -46254,6 +46264,7 @@
 0.0.0.0    trafikarenan.com
 0.0.0.0    trafit.com
 0.0.0.0    trafmag.com
+0.0.0.0    trahkino.cc
 0.0.0.0    trahvid.com
 0.0.0.0    trai18.com
 0.0.0.0    trai69.com
@@ -50149,6 +50160,7 @@
 0.0.0.0    www.19girlstube.com
 0.0.0.0    www.19hdporn.com
 0.0.0.0    www.19hdsex.com
+0.0.0.0    www1.9hentai.com
 0.0.0.0    www.19nitten.com
 0.0.0.0    www.19teenmovie.com
 0.0.0.0    www.19teenmovies.com
@@ -62824,6 +62836,7 @@
 0.0.0.0    www.hentai.cafe
 0.0.0.0    www.hentai-cartoons-1619.blogspot.com
 0.0.0.0    www.hentaicdn.com
+0.0.0.0    www.hentaicity.com
 0.0.0.0    www.hentaiclass.com
 0.0.0.0    www.hentaiclicker.com
 0.0.0.0    www.hentaicloud.com
@@ -62957,6 +62970,7 @@
 0.0.0.0    www.hentaiw.com
 0.0.0.0    www.hentaiworld.eu
 0.0.0.0    www.hentaiworld.fr
+0.0.0.0    www.hentaiworld.me
 0.0.0.0    www.hentaiworld.tv
 0.0.0.0    www.hentai-x-mf.blogspot.com
 0.0.0.0    www.hentaixtv.com
@@ -69892,6 +69906,7 @@
 0.0.0.0    www.onlyfreecams.com
 0.0.0.0    www.onlygayporn.blogspot.com
 0.0.0.0    www.onlygayvideo.com
+0.0.0.0    www.onlyhentaistuff.com
 0.0.0.0    www.onlyhomemadeanal.com
 0.0.0.0    www.onlyhookup.com
 0.0.0.0    www.onlyindianporn.net
@@ -79001,6 +79016,7 @@
 0.0.0.0    www.vercomicsporno.xxx
 0.0.0.0    www.verfilmesgratis.net
 0.0.0.0    www.vergacamamarimama.blogspot.com
+0.0.0.0    www.ver-hentai.online
 0.0.0.0    www.verhentai.tv
 0.0.0.0    www.verifier.live
 0.0.0.0    www.verifycaptcha.com
