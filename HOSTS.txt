@@ -3865,7 +3865,6 @@
 0.0.0.0    api.adcalls.nl
 0.0.0.0    api.adip.ly
 0.0.0.0    api.adquality.ch
-0.0.0.0    api.ad.xiaomi.com
 0.0.0.0    api.airpush.com
 0.0.0.0    api.branch.io
 0.0.0.0    api-cdn.rule34.xxx
@@ -3874,7 +3873,6 @@
 0.0.0.0    api.coin-hive.com
 0.0.0.0    api.collect.data.intl.miui.com
 0.0.0.0    api.crypto-loot.com
-0.0.0.0    api.d.xiaomi.com
 0.0.0.0    api-edge.myfreecams.com
 0.0.0.0    api.eqmob.com
 0.0.0.0    api.ero-advertising.com
@@ -3895,7 +3893,6 @@
 0.0.0.0    api.pornhub.com
 0.0.0.0    api.rabbits.webcam
 0.0.0.0    api.redgifs.com
-0.0.0.0    api.rollbar.com
 0.0.0.0    api.scrolller.com
 0.0.0.0    apishops.ru
 0.0.0.0    api.simply-hentai.com
@@ -8240,7 +8237,6 @@
 0.0.0.0    ccbill.metartmoney.com
 0.0.0.0    cccccccddddv.blogspot.com
 0.0.0.0    c-c-c-p.tumblr.com
-0.0.0.0    ccc.sys.intl.xiaomi.com
 0.0.0.0    ccc.sys.miui.com
 0.0.0.0    ccgals.com
 0.0.0.0    cc-gastro.de
@@ -8251,7 +8247,6 @@
 0.0.0.0    c.cnzz.com
 0.0.0.0    c-c.one
 0.0.0.0    ccrbudgetca.112.2o7.net
-0.0.0.0    cc.sys.intl.xiaomi.com
 0.0.0.0    cc.sys.miui.com
 0.0.0.0    cctblrnude.club
 0.0.0.0    cctld.dk
@@ -12831,7 +12826,6 @@
 0.0.0.0    ea-comic.blogspot.com
 0.0.0.0    ead-soft.popunder.ru
 0.0.0.0    eadultgames.com
-0.0.0.0    e.ad.xiaomi.com
 0.0.0.0    eagleexteriorsllc.com
 0.0.0.0    eahentai.com
 0.0.0.0    eandsgallery.com
@@ -39020,7 +39014,6 @@
 0.0.0.0    roleplayers.co
 0.0.0.0    roleplay.jerkmate.com
 0.0.0.0    rolikix.xyz
-0.0.0.0    rollbar.com
 0.0.0.0    rollizug.de
 0.0.0.0    roloflix.com
 0.0.0.0    rolotube.com
@@ -53094,7 +53087,6 @@
 0.0.0.0    www.api.adcalls.nl
 0.0.0.0    www.api.adip.ly
 0.0.0.0    www.api.adquality.ch
-0.0.0.0    www.api.ad.xiaomi.com
 0.0.0.0    www.api.airpush.com
 0.0.0.0    www.api.branch.io
 0.0.0.0    www.api-cdn.rule34.xxx
@@ -53102,7 +53094,6 @@
 0.0.0.0    www.api.coin-hive.com
 0.0.0.0    www.api.collect.data.intl.miui.com
 0.0.0.0    www.api.crypto-loot.com
-0.0.0.0    www.api.d.xiaomi.com
 0.0.0.0    www.api.eqmob.com
 0.0.0.0    www.api.ero-advertising.com
 0.0.0.0    www.api.infinario.com
@@ -53113,7 +53104,6 @@
 0.0.0.0    www.apinaporn.com
 0.0.0.0    www.api.oneaudience.com
 0.0.0.0    www.api.optnmnstr.com
-0.0.0.0    www.api.rollbar.com
 0.0.0.0    www.apishops.ru
 0.0.0.0    www.apis.murdoog.com
 0.0.0.0    www.api.solvemedia.com
@@ -56188,7 +56178,6 @@
 0.0.0.0    www.c.ca.msn.com
 0.0.0.0    www.ccbill.com
 0.0.0.0    www.ccbilleu.com
-0.0.0.0    www.ccc.sys.intl.xiaomi.com
 0.0.0.0    www.ccc.sys.miui.com
 0.0.0.0    www.ccgals.com
 0.0.0.0    www.cc-gastro.de
@@ -56198,7 +56187,6 @@
 0.0.0.0    www.c.cnzz.com
 0.0.0.0    www.c-c.one
 0.0.0.0    www.ccrbudgetca.112.2o7.net
-0.0.0.0    www.cc.sys.intl.xiaomi.com
 0.0.0.0    www.cc.sys.miui.com
 0.0.0.0    www.cctld.dk
 0.0.0.0    www.ccudl.com
@@ -58639,7 +58627,6 @@
 0.0.0.0    www.ea-comic.blogspot.com
 0.0.0.0    www.ead-soft.popunder.ru
 0.0.0.0    www.eadultgames.com
-0.0.0.0    www.e.ad.xiaomi.com
 0.0.0.0    www.eagleexteriorsllc.com
 0.0.0.0    www.eahentai.com
 0.0.0.0    www.eandsgallery.com
@@ -74271,7 +74258,6 @@
 0.0.0.0    www.rok.com.com
 0.0.0.0    www.roks.ua
 0.0.0.0    www.rolikix.xyz
-0.0.0.0    www.rollbar.com
 0.0.0.0    www.rollizug.de
 0.0.0.0    www.rolotube.com
 0.0.0.0    www.roltek.com.tr
