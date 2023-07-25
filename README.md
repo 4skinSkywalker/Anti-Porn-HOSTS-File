@@ -1,19 +1,20 @@
 # Anti Porn HOSTS File
-The purpose of this repository is to distribute a useful mean to fight porn addiction.
+The purpose of this repository is to distribute a useful means to fight porn addiction.
 
-If you are willing to improve your life and get rid of porn addiction then Google `NoFap®`.
+If you are willing to improve your life and get rid of porn addiction then visit [NoFap®](https://nofap.com)
 
 ## What's the HOSTS file and how it can prevent access to porn sites?
-HOSTS file contains the mappings of IP addresses to host names.
+A HOSTS file contains the mappings of IP addresses to host names on a system.
 
-With HOSTS file we can prevent our browser to access porn sites.
+Within that HOSTS file we can prevent our browser from accessing porn sites.
 
 ## What's so special about this repository?
 HOSTS.txt contains a huge list of porn sites (probably the biggest list you can find on the Internet).
 
-Just by copy-pasting its content on your machine's HOSTS file enables the blocking mechanism.
+Just copy-pasting its contents on your machine's HOSTS file enables the blocking mechanism.
 
-## HOSTS in Windows 7/8.x/10
+## HOSTS on Windows 7/8.x/10/11
+### Using Notepad
 1. Right mouse click on Notepad icon then click on `Run as administrator`
 2. File → Open... then insert the path `C:\windows\system32\drivers\etc\hosts`
 3. Add a new line and copy-paste the entire content of HOSTS.txt
@@ -36,14 +37,15 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 
 The steps in Cygwin should be similar on in any POSIX compatible system running on Windows.
 
-## HOSTS in Linux and macOS
+## HOSTS on Linux and macOS
 1. Open the terminal
 2. Type `sudo vim /etc/hosts`
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
 
-## HOSTS in Android (method #1)
+## HOSTS on Android
+### Using Hosts Go
 1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
 2. Download "HOSTS.txt" and put it somewhere inside your phone
 3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
@@ -52,7 +54,7 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 6. Import HOSTS file you previously downloaded
 7. Go back and START
 
-## HOSTS in Android (method #2)
+### Using DNS66
 1. Install [DNS66](https://github.com/julian-klode/dns66#installing)
 2. Open [DNS66](https://github.com/julian-klode/dns66#installing)
 3. Click on HOSTS button to select the "HOSTS" section of the APP
@@ -63,10 +65,26 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 8. Go back to the "START" section of the APP and start it
 9. You should notice a symbol indicating an active VPN on your Android system
 
+### Rooting (requires computer)
+##### THIS METHOD IS FOR ADVANCED USERS ONLY
+*Assuming you already took the steps to root your device, which won't be instructed here, have `adb` installed on a computer, and also understand the risks that can come with rooting a device:*
+1. Connect your device via USB to your computer.
+2. Enable Developer mode on your device if you haven't done so already. (Settings > About phone > Tap "Build number" five times)
+3. Make sure the USB Debugging (and Rooted Debugging), options are enabled. (Settings > System > Developer options > "USB debugging" & "Rooted debugging")
+4. Find your device by running `adb devices` on your computer. (If it prints "unauthorized", check for a pop up on your device asking for permission to use USB debugging")
+5. Pull the device's hosts file by running `adb pull /system/etc/hosts`.
+6. Open the `hosts` file in your preferred editor, and copy-paste all the contents of HOSTS.txt in a new line. Save the file.
+7. Enable root access on ADB by running `adb root`.
+8. Remount the filesystem by running `adb remount`.
+9. Push the file back to your device by running `adb push hosts /system/etc`.
+10. If the device was rooted properly, it should successfully block all sites listed. If it doesn't work right away, try rebooting.
+11. (optional) If you want to make it a little more difficult to edit the file (so that you dont delete it), go into your device's shell with `adb shell`, and make the `hosts` file immutable by running `chattr +i /system/etc/hosts`. You can remove the immutability by replacing `+i` with `-i`.
+
+
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
 
-If you disable it on demand to watch porns then you defeat the very purpose of it, but more than that you betray yourself.
+If you disable it on demand to watch porn then you defeat the very purpose of it, but more than that you betray yourself.
 
 ## Contribute
 
@@ -85,3 +103,4 @@ Your changes **won't be visible immediately**; first they have to be merged by t
 If you feel like you want to donate something
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3UN95QQCD4B7E)
+
