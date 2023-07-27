@@ -709,6 +709,7 @@
 0.0.0.0    4cache.net
 0.0.0.0    4chan.com
 0.0.0.0    4chan.org
+0.0.0.0    4chanarchives.com
 0.0.0.0    4crot.com
 0.0.0.0    4desiz.blogspot.com
 0.0.0.0    4everh0rny.tumblr.com
@@ -11284,6 +11285,7 @@
 0.0.0.0    dafeet.thumblogger.com
 0.0.0.0    daft.sex
 0.0.0.0    daftporn.com
+0.0.0.0    daftsex-hd.com
 0.0.0.0    daftsex.cloud
 0.0.0.0    daftsex.com
 0.0.0.0    daftsex.com.co
@@ -12649,6 +12651,7 @@
 0.0.0.0    dreamgirlpictorials.tumblr.com
 0.0.0.0    dreamgirlssocks.com
 0.0.0.0    dreamiedaddy.tumblr.com
+0.0.0.0    dreamingirls.erog.fr
 0.0.0.0    dreammates.112.2o7.net
 0.0.0.0    dreammovies.com
 0.0.0.0    dreams-hd.com
@@ -12799,6 +12802,7 @@
 0.0.0.0    dualeotruyen24h.com
 0.0.0.0    dualeotruyen3s.com
 0.0.0.0    dualeotruyenzz.com
+0.0.0.0    dubbedups.blogspot.com
 0.0.0.0    dubhentai.blogspot.com
 0.0.0.0    dubsundays.com
 0.0.0.0    duccai.com
@@ -14429,6 +14433,7 @@
 0.0.0.0    ezxs.com
 0.0.0.0    ezyupezydown.tumblr.com
 0.0.0.0    f-mex.blogspot.com
+0.0.0.0    f-mix.com
 0.0.0.0    f-u-c-k-m-e-h-a-r-d.tumblr.com
 0.0.0.0    f.nexac.com
 0.0.0.0    f00kclan.de
@@ -17485,6 +17490,7 @@
 0.0.0.0    gayporn.com.es
 0.0.0.0    gayporn.fm
 0.0.0.0    gayporn.host
+0.0.0.0    gayporn.id
 0.0.0.0    gayporn.pro
 0.0.0.0    gayporn.space
 0.0.0.0    gayporn.tv
@@ -20468,6 +20474,7 @@
 0.0.0.0    hot-xxxmovies.com
 0.0.0.0    hot-yesmessenger.com
 0.0.0.0    hot.ag
+0.0.0.0    hot.boombo.biz
 0.0.0.0    hot.com
 0.0.0.0    hot18.net
 0.0.0.0    hot18tube.com
@@ -22250,6 +22257,7 @@
 0.0.0.0    innylon.com
 0.0.0.0    inpagevideo.nl
 0.0.0.0    inpath.info
+0.0.0.0    inpics.site
 0.0.0.0    inporn.com
 0.0.0.0    inquisitiveinvention.com
 0.0.0.0    insanebooty.tumblr.com
@@ -30826,6 +30834,7 @@
 0.0.0.0    nubolabs.com
 0.0.0.0    nucuties.com
 0.0.0.0    nucwd.com
+0.0.0.0    nud3.com
 0.0.0.0    nuddess.com
 0.0.0.0    nude-and-famous.com
 0.0.0.0    nude-art.net
@@ -34009,6 +34018,7 @@
 0.0.0.0    phallosdei.com
 0.0.0.0    phang.pro
 0.0.0.0    phang3x.com
+0.0.0.0    phantombullet.net
 0.0.0.0    pharmacy-news.blogspot.com
 0.0.0.0    pharmacy.hut1.ru
 0.0.0.0    pharmadeal.gr
@@ -35651,6 +35661,7 @@
 0.0.0.0    porhub.online
 0.0.0.0    poringa.com
 0.0.0.0    poringa.net
+0.0.0.0    poringa.sexoral.net
 0.0.0.0    porjav.com
 0.0.0.0    porkahd.pro
 0.0.0.0    porkchopgirl.com
@@ -36193,6 +36204,7 @@
 0.0.0.0    pornhqvideos.com
 0.0.0.0    pornhub-deutsch.com
 0.0.0.0    pornhub-german.com
+0.0.0.0    pornhub-pics.com
 0.0.0.0    pornhub-teen.com
 0.0.0.0    pornhub-vn.com
 0.0.0.0    pornhub.black
@@ -36995,6 +37007,7 @@
 0.0.0.0    pornqualityindian.com
 0.0.0.0    pornquest.com
 0.0.0.0    pornrabbit.com
+0.0.0.0    pornrain.com
 0.0.0.0    pornrapetube.net
 0.0.0.0    pornrat.net
 0.0.0.0    pornreach.com
@@ -39462,6 +39475,7 @@
 0.0.0.0    rule-34.xxx
 0.0.0.0    rule34.art
 0.0.0.0    rule34.paheal.net
+0.0.0.0    rule34.pictures
 0.0.0.0    rule34.top
 0.0.0.0    rule34.us
 0.0.0.0    rule34.world
@@ -41314,6 +41328,7 @@
 0.0.0.0    sexnlove.blogspot.com
 0.0.0.0    sexnonghd.pro
 0.0.0.0    sexnotsex.tumblr.com
+0.0.0.0    sexnude.pics
 0.0.0.0    sexnudo.com
 0.0.0.0    sexnung.net
 0.0.0.0    sexnunglon.pro
@@ -42245,6 +42260,7 @@
 0.0.0.0    shemantube.com
 0.0.0.0    shemlivenow.com
 0.0.0.0    shemp.com
+0.0.0.0    shenaked.org
 0.0.0.0    shenasty.blogspot.com
 0.0.0.0    shentai.org
 0.0.0.0    shentai.xyz
@@ -42287,12 +42303,14 @@
 0.0.0.0    shop.justguam.com
 0.0.0.0    shop.literotica.com
 0.0.0.0    shop.playboy.de
+0.0.0.0    shop9702.sosoutremer.org
 0.0.0.0    shopgiggles.com
 0.0.0.0    shoplibido.com.br
 0.0.0.0    shoplyfter.com
 0.0.0.0    shopping-offer.com
 0.0.0.0    shoppingminds.net
 0.0.0.0    shopstickersbysandstone.com
+0.0.0.0    shoptr3.ferientipps.net
 0.0.0.0    shornnape.tumblr.com
 0.0.0.0    shorte.st
 0.0.0.0    shortylookgood.tumblr.com
@@ -47926,6 +47944,7 @@
 0.0.0.0    valc.atm.youku.com
 0.0.0.0    valentina-nappi.it
 0.0.0.0    valentinodaily.com
+0.0.0.0    valeriavixen.net
 0.0.0.0    valeriemillett.com
 0.0.0.0    validatedsite.com
 0.0.0.0    validccseller.com
@@ -51865,6 +51884,7 @@
 0.0.0.0    www.ainokishi-image.blogspot.com
 0.0.0.0    www.ainr.blogspot.com
 0.0.0.0    www.aiohotgirl.com
+0.0.0.0    www.aiohotzgirl.com
 0.0.0.0    www.aipornpics.com
 0.0.0.0    www.air-boob.com
 0.0.0.0    www.air-edem.ru
@@ -57001,6 +57021,7 @@
 0.0.0.0    www.clubesperanzagomez.blogspot.com
 0.0.0.0    www.clubevaangelina.net
 0.0.0.0    www.clubfemmesmatures.com
+0.0.0.0    www.clubgeorgiajones.com
 0.0.0.0    www.clubgirl.nl
 0.0.0.0    www.clubglamour.net
 0.0.0.0    www.clubjasonsparks.blogspot.com
@@ -61384,6 +61405,7 @@
 0.0.0.0    www.freeshemalewebcams.com
 0.0.0.0    www.freesite-adulte.com
 0.0.0.0    www.freeskinpics.com
+0.0.0.0    www.freesoftcorepic.com
 0.0.0.0    www.freestar-d.openx.net
 0.0.0.0    www.freetamilsextube.com
 0.0.0.0    www.freetangodownload.com
@@ -75909,6 +75931,7 @@
 0.0.0.0    www.sexxxygirlsonly.tumblr.com
 0.0.0.0    www.sexy-69-hum.tumblr.com
 0.0.0.0    www.sexy-asmr.com
+0.0.0.0    www.sexy-babe-pics.com
 0.0.0.0    www.sexy-babes-sexy.blogspot.com
 0.0.0.0    www.sexy-boobs.blogspot.com
 0.0.0.0    www.sexy-dolls.blogspot.com
@@ -79338,6 +79361,7 @@
 0.0.0.0    www.uk.mediaplayercodecpack.com
 0.0.0.0    www.ukamateursexland.com
 0.0.0.0    www.ukdevilz.com
+0.0.0.0    www.ukeamilton.pw
 0.0.0.0    www.ukmpakarunding.my
 0.0.0.0    www.ukn0wuwantit.tumblr.com
 0.0.0.0    www.uknothatoneguy.tumblr.com
@@ -83303,6 +83327,7 @@
 0.0.0.0    xnxnx.ru
 0.0.0.0    xnxporn.info
 0.0.0.0    xnxvideos.in
+0.0.0.0    xnxvideos.org
 0.0.0.0    xnxvideosex.com
 0.0.0.0    xnxvn.org
 0.0.0.0    xnxx-alarab.com
