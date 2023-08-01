@@ -10709,6 +10709,7 @@
 0.0.0.0    creafi-online-media.com
 0.0.0.0    creamasia.adult.directnic.com
 0.0.0.0    creamedcuties.com
+0.0.0.0    creamgangs.com
 0.0.0.0    creamgoodies.com
 0.0.0.0    creampie-angels.com
 0.0.0.0    creampiecuties.com
@@ -10719,6 +10720,7 @@
 0.0.0.0    creampie-mature.com
 0.0.0.0    cream-pie-porn.tumblr.com
 0.0.0.0    creampiepornvids.com
+0.0.0.0    creampiesbig.com
 0.0.0.0    creampieslut.blogspot.com
 0.0.0.0    creampiethais.com
 0.0.0.0    creampietubeporn.com
@@ -10932,6 +10934,7 @@
 0.0.0.0    culturedcrayon.com
 0.0.0.0    cum4all.tumblr.com
 0.0.0.0    cum4k.com
+0.0.0.0    cum4k.tube
 0.0.0.0    cum4porn.blogspot.com
 0.0.0.0    cum69.net
 0.0.0.0    cumaholicteens.com
@@ -11937,6 +11940,7 @@
 0.0.0.0    de.zapmeta.com
 0.0.0.0    dezuiderwaard.nl
 0.0.0.0    dezyred.com
+0.0.0.0    dfartz.com
 0.0.0.0    dfiles.me
 0.0.0.0    dfjoven.com
 0.0.0.0    dfordesire.blogspot.com
@@ -57404,12 +57408,14 @@
 0.0.0.0    www.crazyxxx3dworld.com
 0.0.0.0    www.crazyxxxcouplesex.blogspot.com
 0.0.0.0    www.creafi-online-media.com
+0.0.0.0    www.creamgangs.com
 0.0.0.0    www.creamgoodies.com
 0.0.0.0    www.creampieforgranny.com
 0.0.0.0    www.creampiegalleries.blogspot.com
 0.0.0.0    www.creampieinternal.blogspot.com
 0.0.0.0    www.cream-pie-porn.tumblr.com
 0.0.0.0    www.creampiepornvids.com
+0.0.0.0    www.creampiesbig.com
 0.0.0.0    www.creampieslut.blogspot.com
 0.0.0.0    www.creampiethais.com
 0.0.0.0    www.creampietubeporn.com
@@ -57549,6 +57555,7 @@
 0.0.0.0    www.culturedcrayon.com
 0.0.0.0    www.cum4all.tumblr.com
 0.0.0.0    www.cum4k.com
+0.0.0.0    www.cum4k.tube
 0.0.0.0    www.cum4porn.blogspot.com
 0.0.0.0    www.cumaholicteens.com
 0.0.0.0    www.cum-amateur.blogspot.com
@@ -58216,6 +58223,7 @@
 0.0.0.0    www.de.zapmeta.com
 0.0.0.0    www.dezuiderwaard.nl
 0.0.0.0    www.dfbnetwork.com
+0.0.0.0    www.dfartz.com
 0.0.0.0    www.dfiles.me
 0.0.0.0    www.dfjoven.com
 0.0.0.0    www.dfordesire.blogspot.com
