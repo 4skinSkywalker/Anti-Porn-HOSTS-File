@@ -81463,7 +81463,6 @@
 0.0.0.0    www.xvideonovinha.com
 0.0.0.0    www.xvideoporno.tv
 0.0.0.0    www.xvideos-cdn.com
-0.0.0.0    www.xvideos-español.com
 0.0.0.0    www.xvideos-teens.com
 0.0.0.0    www.xvideos-teens.pro
 0.0.0.0    www.xvideos-tv.com
@@ -82504,8 +82503,6 @@
 0.0.0.0    www.zzsyw.com
 0.0.0.0    www.zztube.com
 0.0.0.0    www.zzztube.com
-0.0.0.0    www.افلام-سكس.com
-0.0.0.0    www.سكس.cc
 0.0.0.0    www1.9hentai.com
 0.0.0.0    www1.belboon.de
 0.0.0.0    www1.chickenhost.com
@@ -83598,7 +83595,6 @@
 0.0.0.0    xvideos-br.com
 0.0.0.0    xvideos-cdn.com
 0.0.0.0    xvideos-cdn.xvideo.party
-0.0.0.0    xvideos-español.com
 0.0.0.0    xvideos-hd.blog
 0.0.0.0    xvideos-hd.com
 0.0.0.0    xvideos-net.com
