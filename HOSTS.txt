@@ -28846,6 +28846,7 @@
 0.0.0.0    mobile-free.metulwx.com
 0.0.0.0    mobile-porn.club
 0.0.0.0    mobile-porn.pro
+0.0.0.0    mobile-xvideos.com
 0.0.0.0    mobile.banzai.it
 0.0.0.0    mobile.bravoporn.com
 0.0.0.0    mobile.fan2cam.com
@@ -69183,6 +69184,7 @@
 0.0.0.0    www.mobifcuk.com
 0.0.0.0    www.mobile-free.metulwx.com
 0.0.0.0    www.mobile-porn.club
+0.0.0.0    www.mobile-xvideos.com
 0.0.0.0    www.mobile.banzai.it
 0.0.0.0    www.mobile.home.dealer.north.carolina.sms13.de
 0.0.0.0    www.mobile.navigation.video.sms13.de
