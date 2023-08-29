@@ -19055,7 +19055,7 @@
 0.0.0.0    guro.booru.org
 0.0.0.0    guruofcasino.com
 0.0.0.0    guruofporn.com
-0.0.0.0    gurusex.net 
+0.0.0.0    gurusex.net
 0.0.0.0    gushinglindsey.blogspot.com
 0.0.0.0    gustaver.ddns.net
 0.0.0.0    gusttavomaudovick.blogspot.com
@@ -35619,7 +35619,6 @@
 0.0.0.0    pixies-pillows-free-pics.blogspot.com
 0.0.0.0    pixiv.kurocore.com
 0.0.0.0    pixiv.me
-0.0.0.0    pixiv.net
 0.0.0.0    pixroute.com
 0.0.0.0    pixwox.com
 0.0.0.0    pixx.pro
@@ -63629,7 +63628,7 @@
 0.0.0.0    www.gurde.tourstogo.us
 0.0.0.0    www.gurgle.zdbb.net
 0.0.0.0    www.guruofcasino.com
-0.0.0.0    www.gurusex.net 
+0.0.0.0    www.gurusex.net
 0.0.0.0    www.gushinglindsey.blogspot.com
 0.0.0.0    www.gustaver.ddns.net
 0.0.0.0    www.gusttavomaudovick.blogspot.com
@@ -72616,7 +72615,6 @@
 0.0.0.0    www.pixierainsl.blogspot.com
 0.0.0.0    www.pixies-pillows-free-pics.blogspot.com
 0.0.0.0    www.pixiv.me
-0.0.0.0    www.pixiv.net
 0.0.0.0    www.pixroute.com
 0.0.0.0    www.pixytube.com
 0.0.0.0    www.pizdamuieanal.blogspot.com
