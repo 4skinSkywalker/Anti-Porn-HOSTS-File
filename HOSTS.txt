@@ -39405,7 +39405,6 @@
 0.0.0.0    redcamif.info
 0.0.0.0    redcrossgood14.com
 0.0.0.0    redd.tube
-0.0.0.0    reddit.com
 0.0.0.0    reddit.rest
 0.0.0.0    redditlist.com
 0.0.0.0    redditporngif.com
@@ -75591,7 +75590,6 @@
 0.0.0.0    www.redcamif.info
 0.0.0.0    www.redcrossgood14.com
 0.0.0.0    www.redd.tube
-0.0.0.0    www.reddit.com
 0.0.0.0    www.redditlist.com
 0.0.0.0    www.reddpics.com
 0.0.0.0    www.redflava.com
