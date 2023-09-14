@@ -18517,7 +18517,6 @@
 0.0.0.0    goforporn.com
 0.0.0.0    gofucker.com
 0.0.0.0    gofucker.net
-0.0.0.0    gog.com
 0.0.0.0    gogameportal.com
 0.0.0.0    gogaytube.tv
 0.0.0.0    goggle.com
@@ -35791,8 +35790,6 @@
 0.0.0.0    pixierainsl.blogspot.com
 0.0.0.0    pixies-pillows-free-pics.blogspot.com
 0.0.0.0    pixiv.kurocore.com
-0.0.0.0    pixiv.me
-0.0.0.0    pixiv.net
 0.0.0.0    pixroute.com
 0.0.0.0    pixwox.com
 0.0.0.0    pixx.pro
@@ -63544,7 +63541,6 @@
 0.0.0.0    www.goforporn.com
 0.0.0.0    www.gofucker.com
 0.0.0.0    www.gofucker.net
-0.0.0.0    www.gog.com
 0.0.0.0    www.gogameportal.com
 0.0.0.0    www.gogaytube.tv
 0.0.0.0    www.goggle.com
@@ -72943,8 +72939,6 @@
 0.0.0.0    www.pixhost.to
 0.0.0.0    www.pixierainsl.blogspot.com
 0.0.0.0    www.pixies-pillows-free-pics.blogspot.com
-0.0.0.0    www.pixiv.me
-0.0.0.0    www.pixiv.net
 0.0.0.0    www.pixroute.com
 0.0.0.0    www.pixytube.com
 0.0.0.0    www.pizdamuieanal.blogspot.com
