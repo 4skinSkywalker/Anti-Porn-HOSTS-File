@@ -30830,6 +30830,7 @@
 0.0.0.0    newsexdesi.com
 0.0.0.0    newsexstory.com
 0.0.0.0    newsextv.com
+0.0.0.0    newsexvideos.net
 0.0.0.0    newsexwap.com
 0.0.0.0    newsexxxx.com
 0.0.0.0    newsfilter.org
@@ -42291,6 +42292,7 @@
 0.0.0.0    sexvid.work
 0.0.0.0    sexvid.xxx
 0.0.0.0    sexvideo.asia
+0.0.0.0    sexvideo.plus
 0.0.0.0    sexvideoblog.net
 0.0.0.0    sexvideocartoons.com
 0.0.0.0    sexvideocasting.com
@@ -62412,6 +62414,7 @@
 0.0.0.0    www.freesexstory-blogpost.blogspot.com
 0.0.0.0    www.freesextuber.com
 0.0.0.0    www.freesexvideo.hu
+0.0.0.0    www.freesexvideo.pro
 0.0.0.0    www.freesexvideos.su
 0.0.0.0    www.freesexyblog.blogspot.com
 0.0.0.0    www.freesexyindians.com
@@ -65099,6 +65102,7 @@
 0.0.0.0    www.hotscopes.net
 0.0.0.0    www.hotscopes.to
 0.0.0.0    www.hotsex.com
+0.0.0.0    www.hotsex.tv
 0.0.0.0    www.hotsexblogsdir.com
 0.0.0.0    www.hotsexcomics.me
 0.0.0.0    www.hotsexhotporn.blogspot.com
@@ -77216,6 +77220,7 @@
 0.0.0.0    www.sextube.one
 0.0.0.0    www.sextube.rocks
 0.0.0.0    www.sextube.video
+0.0.0.0    www.sextube8k.com
 0.0.0.0    www.sextubefuck.com
 0.0.0.0    www.sextubefun.com
 0.0.0.0    www.sextubehd.xxx
