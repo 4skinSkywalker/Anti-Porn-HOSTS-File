@@ -205,7 +205,7 @@
 0.0.0.0	www.920share.com	9453.me	www.9453.me	94ero.com	www.94ero.com	94i88.site	www.94i88.site	9527tube.info	www.9527tube.info
 0.0.0.0	96id.de	www.96id.de	9887bgb.com	www.9887bgb.com	9911tv.com	www.9911tv.com	999hentai.to	www.999hentai.to	999hentai.tv
 0.0.0.0	www.999hentai.tv	999ways.blogspot.co.uk	www.999ways.blogspot.co.uk	999webdesign.com	www.999webdesign.com	99aiai.net	www.99aiai.net	99classic.com	www.99classic.com
-0.0.0.0	99xxxtube.com	www.99xxxtube.com	9gag.com	www.9gag.com	comment-cdn.9gag.com	m.9gag.com	images-cdn.9gag.com	9gag2.com	www.9gag2.com
+0.0.0.0	99xxxtube.com	www.99xxxtube.com	9gag2.com	www.9gag2.com
 0.0.0.0	9hentai-to.ru	www.9hentai-to.ru	9hentai.com	www.9hentai.com	9hentai.info	www.9hentai.info	9hentai.to	www.9hentai.to	9hentai.uk
 0.0.0.0	www.9hentai.uk	9lxx.com	www.9lxx.com	9mag.net	www.9mag.net	9oclockmovie.info	www.9oclockmovie.info	9thaiav.blogspot.com	www.9thaiav.blogspot.com
 0.0.0.0	9thien.com	www.9thien.com	9vids.com	www.9vids.com	9xlove.xyz	www.9xlove.xyz	9xlust.in	www.9xlust.in	a-5.info
@@ -4160,8 +4160,7 @@
 0.0.0.0	live-porn.se	www.live-porn.se	live-sex-cams-sex.blogspot.com	www.live-sex-cams-sex.blogspot.com	live-sex-cams.blogspot.com	www.live-sex-cams.blogspot.com	live-sex-on-webcam.blogspot.com	www.live-sex-on-webcam.blogspot.com	live-sex-porn.com
 0.0.0.0	www.live-sex-porn.com	live-sex.cam	www.live-sex.cam	live-sex.ch	www.live-sex.ch	live-sex.fun	www.live-sex.fun	live-sex.page	www.live-sex.page
 0.0.0.0	live-sex.porn	www.live-sex.porn	live-sexcam.at	www.live-sexcam.at	live-sexchat.ru	www.live-sexchat.ru	live-sexwebcam.info	www.live-sexwebcam.info	live-show-francais.net
-0.0.0.0	www.live-show-francais.net	live-shows-webcams.com	www.live-shows-webcams.com	live.com	www.live.com	login.live.com	outlook.live.com	onedrive.live.com	account.live.com
-0.0.0.0	officeapps.live.com	signup.live.com	teams.live.com	to-do.live.com	office.live.com	live.sex	www.live.sex	live18.online	www.live18.online
+0.0.0.0	www.live-show-francais.net	live-shows-webcams.com	www.live-shows-webcams.com	live.sex	www.live.sex	live18.online	www.live18.online
 0.0.0.0	live2hustle.net	www.live2hustle.net	liveanal.tv	www.liveanal.tv	liveasiancams.biz	www.liveasiancams.biz	liveasianfuck.com	www.liveasianfuck.com	livebabeshows.co.uk
 0.0.0.0	www.livebabeshows.co.uk	livecam-experts.com	www.livecam-experts.com	livecam-sex.de	www.livecam-sex.de	livecam-systeme.com	www.livecam-systeme.com	livecamcheck.com	www.livecamcheck.com
 0.0.0.0	livecamclips.com	www.livecamclips.com	livecamdeals.com	www.livecamdeals.com	livecamgirl.fun	www.livecamgirl.fun	livecamgirls.name	www.livecamgirls.name	livecammodelshows.com
