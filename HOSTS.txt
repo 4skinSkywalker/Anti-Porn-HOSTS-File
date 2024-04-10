@@ -1038,6 +1038,7 @@
 0.0.0.0    91pornos.xyz
 0.0.0.0    91pornplus.com
 0.0.0.0    91porny.com
+0.0.0.0    91porny.org
 0.0.0.0    91sesex.xyz
 0.0.0.0    91tvapi.me
 0.0.0.0    91yule.info
@@ -7850,6 +7851,7 @@
 0.0.0.0    c.il.msn.com
 0.0.0.0    c.in.msn.com
 0.0.0.0    c.it.msn.com
+0.0.0.0    c.jiuse.in
 0.0.0.0    c.jp.msn.com
 0.0.0.0    c.l.qq.com
 0.0.0.0    c.latam.msn.com
@@ -18181,6 +18183,7 @@
 0.0.0.0    gazoblok.net.ua
 0.0.0.0    gazporn.com
 0.0.0.0    gazzetta.adman.gr
+0.0.0.0    gb.jiuse823.com
 0.0.0.0    gbcash.com
 0.0.0.0    gbgporn.com
 0.0.0.0    gbsmakina.com
@@ -24558,6 +24561,12 @@
 0.0.0.0    jinyuisland88.com
 0.0.0.0    jitmj4.122.2o7.net
 0.0.0.0    jitsuroku.kir.jp
+0.0.0.0    jiuse.com.co
+0.0.0.0    jiuse.in
+0.0.0.0    jiuse.io
+0.0.0.0    jiuse821.com
+0.0.0.0    jiuse822.com
+0.0.0.0    jiuse823.com
 0.0.0.0    jivox.com
 0.0.0.0    jiyazaza.boxhost.me
 0.0.0.0    jizz.xxx
@@ -24972,6 +24981,9 @@
 0.0.0.0    jsmcrjmp.com
 0.0.0.0    jssdk.beetv.net
 0.0.0.0    jstbdsm.tumblr.com
+0.0.0.0    jstv51.com
+0.0.0.0    jstv52.com
+0.0.0.0    jstv53.com
 0.0.0.0    jtt.sc.omtrdc.net
 0.0.0.0    ju2g8tzj.com
 0.0.0.0    juanlo.blogspot.com
@@ -52917,6 +52929,7 @@
 0.0.0.0    www.91pornos.xyz
 0.0.0.0    www.91pornplus.com
 0.0.0.0    www.91porny.com
+0.0.0.0    www.91porny.org
 0.0.0.0    www.91sesex.xyz
 0.0.0.0    www.91tvapi.me
 0.0.0.0    www.91yule.info
@@ -67846,6 +67859,12 @@
 0.0.0.0    www.jinrijp.top
 0.0.0.0    www.jinyuisland88.com
 0.0.0.0    www.jitmj4.122.2o7.net
+0.0.0.0    www.jiuse.com.co
+0.0.0.0    www.jiuse.in
+0.0.0.0    www.jiuse.io
+0.0.0.0    www.jiuse821.com
+0.0.0.0    www.jiuse822.com
+0.0.0.0    www.jiuse823.com
 0.0.0.0    www.jivox.com
 0.0.0.0    www.jiyazaza.boxhost.me
 0.0.0.0    www.jizz.xxx
@@ -68026,6 +68045,9 @@
 0.0.0.0    www.jsexnetwork.com
 0.0.0.0    www.jsg7mdk.com
 0.0.0.0    www.jssdk.beetv.net
+0.0.0.0    www.jstv51.com
+0.0.0.0    www.jstv52.com
+0.0.0.0    www.jstv53.com
 0.0.0.0    www.jtt.sc.omtrdc.net
 0.0.0.0    www.ju2g8tzj.com
 0.0.0.0    www.juanlo.blogspot.com
