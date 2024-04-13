@@ -18222,6 +18222,7 @@
 0.0.0.0    gcirm.thespectrum.com
 0.0.0.0    gcirm2.indystar.com
 0.0.0.0    gcolle.net
+0.0.0.0    gcore-pic.xnxx-cdn.com
 0.0.0.0    gcup.ru
 0.0.0.0    gcupbaby.com
 0.0.0.0    gcxsbflncu.bid
@@ -37400,6 +37401,7 @@
 0.0.0.0    pornhqhub.com
 0.0.0.0    pornhqvideos.com
 0.0.0.0    pornhu.hu
+0.0.0.0    pornhub-com.zproxy.org
 0.0.0.0    pornhub-deutsch.com
 0.0.0.0    pornhub-german.com
 0.0.0.0    pornhub-teen.com
@@ -86696,6 +86698,7 @@
 0.0.0.0    xnxx-best.com
 0.0.0.0    xnxx-cdn.com
 0.0.0.0    xnxx-com.net
+0.0.0.0    xnxx-com.zproxy.org
 0.0.0.0    xnxx-deutsch.com
 0.0.0.0    xnxx-films.com
 0.0.0.0    xnxx-free-videos.com
