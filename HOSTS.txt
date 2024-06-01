@@ -6454,6 +6454,7 @@
 0.0.0.0    bigporn.com
 0.0.0.0    bigporn.fun
 0.0.0.0    bigpornhub.pro
+0.0.0.0    bigpornlist.com
 0.0.0.0    bigporno.cz
 0.0.0.0    bigporntube.pro
 0.0.0.0    bigrain.com
@@ -57067,6 +57068,7 @@
 0.0.0.0    www.bigpenisguide.com
 0.0.0.0    www.bigporn.com
 0.0.0.0    www.bigporn.fun
+0.0.0.0    www.bigpornlist.com
 0.0.0.0    www.bigporno.cz
 0.0.0.0    www.bigrain.com
 0.0.0.0    www.bigrawtube.com
