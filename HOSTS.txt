@@ -17062,6 +17062,7 @@
 0.0.0.0    fs.ypncdn.com
 0.0.0.0    fsiblog.org
 0.0.0.0    fsiblog2.com
+0.0.0.0    fsiblog4.com
 0.0.0.0    fsicomics.com
 0.0.0.0    fspys.pl
 0.0.0.0    fssquad.com
@@ -20692,6 +20693,7 @@
 0.0.0.0    hindisexvideos.net
 0.0.0.0    hindixnxx.pro
 0.0.0.0    hindixxxhd.com
+0.0.0.0    hindixxxsite.com
 0.0.0.0    hindixxxvideos.net
 0.0.0.0    hinge.co
 0.0.0.0    hinhgai.com
@@ -22833,6 +22835,7 @@
 0.0.0.0    indianpornpictures.com
 0.0.0.0    indianpornprana.com
 0.0.0.0    indianpornsex.pro
+0.0.0.0    indianpornsites.net
 0.0.0.0    indianpornsites.org
 0.0.0.0    indianporntv.net
 0.0.0.0    indianpornvideo.com
@@ -46149,6 +46152,7 @@
 0.0.0.0    tamildeluxe.org
 0.0.0.0    tamilporn.me
 0.0.0.0    tamilrockers.link
+0.0.0.0    tamilscandals.com
 0.0.0.0    tamilsex.casa
 0.0.0.0    tamilsex.desi
 0.0.0.0    tamilsex.irish
@@ -63843,6 +63847,7 @@
 0.0.0.0    www.frwebcams.com
 0.0.0.0    www.fry99.com
 0.0.0.0    www.fsiblog2.com
+0.0.0.0    www.fsiblog4.com
 0.0.0.0    www.fsicomics.com
 0.0.0.0    www.fspys.pl
 0.0.0.0    www.fssquad.com
@@ -65991,6 +65996,7 @@
 0.0.0.0    www.hindisexvideos.net
 0.0.0.0    www.hindixxx.club
 0.0.0.0    www.hindixxxhd.com
+0.0.0.0    www.hindixxxsite.com
 0.0.0.0    www.hinge.co
 0.0.0.0    www.hinla566.xyz
 0.0.0.0    www.hinsib.com
@@ -67104,6 +67110,7 @@
 0.0.0.0    www.indianpornpics.pro
 0.0.0.0    www.indianpornprana.com
 0.0.0.0    www.indianpornqueens.com
+0.0.0.0    www.indianpornsites.net
 0.0.0.0    www.indianpornsites.org
 0.0.0.0    www.indianpornvideo.com
 0.0.0.0    www.indianpornvideo.mobi
@@ -72584,6 +72591,7 @@
 0.0.0.0    www.nudegirlfriends.blogspot.com
 0.0.0.0    www.nudehairybabes.net
 0.0.0.0    www.nudeheat.com
+0.0.0.0    www.nudeindians.net
 0.0.0.0    www.nudeindiantube.com
 0.0.0.0    www.nudeinfrance.com
 0.0.0.0    www.nudejapaneseavidols.com
@@ -80744,8 +80752,10 @@
 0.0.0.0    www.tam-gde-more.ru
 0.0.0.0    www.tameikegoro.jp
 0.0.0.0    www.tamilrockers.link
+0.0.0.0    www.tamilscandals.com
 0.0.0.0    www.tamilsex.casa
 0.0.0.0    www.tamilsexvideos.cc
+0.0.0.0    www.tamilsexvids.net
 0.0.0.0    www.tamolazosperuvian.blogspot.com
 0.0.0.0    www.tampabaywatch.org
 0.0.0.0    www.tanbaofn.xyz
