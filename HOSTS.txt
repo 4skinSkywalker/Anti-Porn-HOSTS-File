@@ -24988,6 +24988,9 @@
 0.0.0.0    jstv51.com
 0.0.0.0    jstv52.com
 0.0.0.0    jstv53.com
+0.0.0.0    gb.jstv51.com
+0.0.0.0    gb.jstv52.com
+0.0.0.0    gb.jstv53.com
 0.0.0.0    jtt.sc.omtrdc.net
 0.0.0.0    ju2g8tzj.com
 0.0.0.0    juanlo.blogspot.com
