@@ -68074,6 +68074,8 @@
 0.0.0.0    otx.x9av8.com
 0.0.0.0    sdy.x9av9.com
 0.0.0.0    wlu.x9av10.com
+0.0.0.0    m.dizhi88.com
+0.0.0.0    dizhi88.com
 0.0.0.0    www.jtt.sc.omtrdc.net
 0.0.0.0    www.ju2g8tzj.com
 0.0.0.0    www.juanlo.blogspot.com
