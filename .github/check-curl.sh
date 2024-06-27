@@ -7,17 +7,18 @@ OUTPUT_FILE="reachable_domains.txt"
 # Clear the output file
 > $OUTPUT_FILE
 
-# Initialize line counter
-line_count=0
+# Initialize the start time
+start_time=$(date +%s)
 
 # Read each line from the input file
 while IFS= read -r line; do
-    # Increment line counter
-    ((line_count++))
+    # Check the elapsed time
+    current_time=$(date +%s)
+    elapsed_time=$((current_time - start_time))
     
-    # Stop processing if line count exceeds 3000
-    if [ "$line_count" -gt 3000 ]; then
-        echo "Reached maximum limit of 3000 lines. Stopping processing."
+    # Stop processing if elapsed time exceeds 5 hours (18000 seconds)
+    if [ "$elapsed_time" -gt 18000 ]; then
+        echo "Reached maximum runtime of 5 hours. Stopping processing."
         break
     fi
     
@@ -40,4 +41,7 @@ while IFS= read -r line; do
     fi
 done < "$INPUT_FILE"
 
-echo "Reachable domains have been saved to $OUTPUT_FILE"
+# Save the output to the hosts file
+cat $OUTPUT_FILE > $INPUT_FILE
+
+echo "Reachable domains have been saved to $INPUT_FILE"
