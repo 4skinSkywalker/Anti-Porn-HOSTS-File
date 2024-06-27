@@ -1,0 +1,34 @@
+name: Weekly Availability Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 1:00 AM UTC every Monday
+    - cron: '0 1 * * 1'
+
+jobs:
+  check-dns:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up curl
+      run: sudo apt-get install -y curl
+
+    - name: Make script executable
+      run: chmod +x .github/check-curl.sh
+
+    # - name: Run DNS check script
+    #   run: ./.github/check_and_clean.sh HOSTS.txt
+
+    - name: Run HTTP/HTTPS check script
+      run: ./.github/check-curl.sh
+
+    - name: Replace the HOSTS file
+      run: |
+        git add .
+        git commit -m "Removed unaccessible sites"
+        git config user.name "Carrot3628"
+        git config user.email "166365286+Carrot3628@users.noreply.github.com"
