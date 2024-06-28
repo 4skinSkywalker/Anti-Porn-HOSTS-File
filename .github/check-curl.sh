@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # File names
-INPUT_FILE="test.txt"
+INPUT_FILE="HOSTS.txt"
 OUTPUT_FILE="reachable_domains.txt"
 
 # Clear the output file
