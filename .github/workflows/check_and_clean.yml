@@ -20,9 +20,6 @@ jobs:
     - name: Make script executable
       run: chmod +x .github/check-curl.sh
 
-    - name: Run DNS check script
-      run: ./.github/check_and_clean.sh HOSTS.txt
-
     - name: Run HTTP/HTTPS check script
       run: ./.github/check-curl.sh
 
