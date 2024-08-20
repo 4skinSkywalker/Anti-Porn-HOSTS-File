@@ -39241,6 +39241,9 @@
 0.0.0.0    turbine25.tumblr.com
 0.0.0.0    turbo-angels.forummotion.com
 0.0.0.0    turbo-suslik.org
+0.0.0.0    yazhouseba.com
+0.0.0.0    yazhouse8.com
+0.0.0.0    yazhouseba.co
 0.0.0.0    turboadv.com
 0.0.0.0    turbobitxxx.com
 0.0.0.0    turbogvideos.com
