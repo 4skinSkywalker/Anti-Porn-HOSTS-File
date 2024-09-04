@@ -13542,6 +13542,7 @@
 0.0.0.0    egyenesen.com
 0.0.0.0    ehair4u.com
 0.0.0.0    eharmony.co.uk
+0.0.0.0    ehentai.ai
 0.0.0.0    ehentai.to
 0.0.0.0    ehentai.wiki
 0.0.0.0    ehentai.xxx
@@ -31849,6 +31850,7 @@
 0.0.0.0    nsfw365.com
 0.0.0.0    nsfw411.com
 0.0.0.0    nsfw6985.blogspot.com
+0.0.0.0    nsfwcharacter.ai
 0.0.0.0    nsfwdirectory.tumblr.com
 0.0.0.0    nsfwgalleryxx.tumblr.com
 0.0.0.0    nsfwhomestuck.booru.org
@@ -37170,6 +37172,7 @@
 0.0.0.0    porndeals.com
 0.0.0.0    porndeepfake.net
 0.0.0.0    porndelta.com
+0.0.0.0    pornderful.ai
 0.0.0.0    porndeva.com
 0.0.0.0    porndex.com
 0.0.0.0    porndhvideo.com
@@ -38532,6 +38535,7 @@
 0.0.0.0    pornworld.to
 0.0.0.0    pornworld22.blogspot.com
 0.0.0.0    pornworms.com
+0.0.0.0    pornx.ai
 0.0.0.0    pornx.fr
 0.0.0.0    pornx.to
 0.0.0.0    pornx11.com
@@ -39072,6 +39076,7 @@
 0.0.0.0    promotion.partnercash.de
 0.0.0.0    promotools.vpscash.nl
 0.0.0.0    promoviral.com
+0.0.0.0    promptchan.ai
 0.0.0.0    pron.blogspot.com
 0.0.0.0    pron.pro
 0.0.0.0    pron.tv
@@ -87541,6 +87546,7 @@
 0.0.0.0    xxxfiles.com
 0.0.0.0    xxxfilmek.hu
 0.0.0.0    xxxflare.com
+0.0.0.0    xxxfollow.com
 0.0.0.0    xxxfree-watch.zproxy.org
 0.0.0.0    xxxfree.club
 0.0.0.0    xxxfree.pro
