@@ -23784,7 +23784,6 @@
 0.0.0.0    itbc.kiev.ua
 0.0.0.0    itc.2081.blueseek.com
 0.0.0.0    itcg3.c5369.blueseek.com
-0.0.0.0    itch.io
 0.0.0.0    iteens.tv
 0.0.0.0    itfreewebmailupdate.sitey.me
 0.0.0.0    ithapps.com
@@ -67725,7 +67724,6 @@
 0.0.0.0    www.itbc.kiev.ua
 0.0.0.0    www.itc.2081.blueseek.com
 0.0.0.0    www.itcg3.c5369.blueseek.com
-0.0.0.0    www.itch.io
 0.0.0.0    www.itfreewebmailupdate.sitey.me
 0.0.0.0    www.ithapps.com
 0.0.0.0    www.ithinkthatshot.com
