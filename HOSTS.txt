@@ -46369,7 +46369,6 @@
 0.0.0.0    taraholidayxxx.com
 0.0.0.0    taraz.xkaz.org
 0.0.0.0    tardporn.blogspot.com
-0.0.0.0    target.com
 0.0.0.0    target.net.finam.ru
 0.0.0.0    targetnet.com
 0.0.0.0    tasabes.tk
@@ -81107,7 +81106,6 @@
 0.0.0.0    www.taraholidayxxx.com
 0.0.0.0    www.taraz.xkaz.org
 0.0.0.0    www.tardporn.blogspot.com
-0.0.0.0    www.target.com
 0.0.0.0    www.target.net.finam.ru
 0.0.0.0    www.targetnet.com
 0.0.0.0    www.tastefulsongs.com
