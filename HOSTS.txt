@@ -27254,7 +27254,9 @@
 0.0.0.0    live-show-francais.net
 0.0.0.0    live-shows-webcams.com
 0.0.0.0    live-stripp.tv
+0.0.0.0    live-xnxx-videos.com
 0.0.0.0    live-xxx-chat.com
+0.0.0.0    live-xxx-videos.com
 0.0.0.0    live-yesmessenger.com
 0.0.0.0    live.biz.pl
 0.0.0.0    live.cam
@@ -27942,6 +27944,7 @@
 0.0.0.0    m-hentai.net
 0.0.0.0    m-ulata.tumblr.com
 0.0.0.0    m-vlxx.com
+0.0.0.0    m-youjizz.com
 0.0.0.0    m.1116666.net
 0.0.0.0    m.21naturals.com
 0.0.0.0    m.3movs.co
@@ -29848,6 +29851,7 @@
 0.0.0.0    misterx-blog.blogspot.com
 0.0.0.0    mistr-x.org
 0.0.0.0    mistress-jennifer.net
+0.0.0.0    mistress-movie.com
 0.0.0.0    mistress-simone.tumblr.com
 0.0.0.0    mistressanitadivina.com
 0.0.0.0    mistressbrigitte.blogspot.com
@@ -30053,6 +30057,7 @@
 0.0.0.0    mobile-edge9.bcvcdn.com
 0.0.0.0    mobile-free.metulwx.com
 0.0.0.0    mobile-porn.club
+0.0.0.0    mobile-porn.org
 0.0.0.0    mobile-porn.pro
 0.0.0.0    mobile-xvideos.com
 0.0.0.0    mobile.banzai.it
@@ -30931,6 +30936,7 @@
 0.0.0.0    my-sex-life.com
 0.0.0.0    my-soccer.club
 0.0.0.0    my-teen-pics.com
+0.0.0.0    my-xvideos.com
 0.0.0.0    my.adocean.pl
 0.0.0.0    my.adultwork.com
 0.0.0.0    my.cam7.com
@@ -31865,8 +31871,10 @@
 0.0.0.0    new-tops.com
 0.0.0.0    new-xhamster.com
 0.0.0.0    new-xmovies.com
+0.0.0.0    new-xvideos.com
 0.0.0.0    new-xxx-movies.com
 0.0.0.0    new-xxx-porn.com
+0.0.0.0    new-xxx-tube.com
 0.0.0.0    new-york.bedpage.com
 0.0.0.0    new.bangbros.com
 0.0.0.0    new.browsermine.com
@@ -33271,6 +33279,7 @@
 0.0.0.0    oiluk.net
 0.0.0.0    oilyhandjobs.com
 0.0.0.0    ok-fuck.com
+0.0.0.0    ok-porn.org
 0.0.0.0    ok-sex.com
 0.0.0.0    ok.porn
 0.0.0.0    ok.ru
@@ -33510,6 +33519,7 @@
 0.0.0.0    online-sex.eu
 0.0.0.0    online-templatestore.com
 0.0.0.0    online-x.ru
+0.0.0.0    online-xxx-videos.com
 0.0.0.0    online.miarroba.com
 0.0.0.0    online.pro
 0.0.0.0    online2play.com
@@ -36601,6 +36611,7 @@
 0.0.0.0    photos-lesbiennes-x.com
 0.0.0.0    photos-teen.com
 0.0.0.0    photos-videos-voyeurs.blogspot.com
+0.0.0.0    photos-videos.com
 0.0.0.0    photos.18onlygirls.com
 0.0.0.0    photos.cams.com
 0.0.0.0    photos.freeones.com
@@ -37546,6 +37557,7 @@
 0.0.0.0    porn-video.hu
 0.0.0.0    porn-videos-1184.blogspot.com
 0.0.0.0    porn-videos-1198.blogspot.com
+0.0.0.0    porn-videos-xxx.com
 0.0.0.0    porn-videos.blogspot.com
 0.0.0.0    porn-videos.org
 0.0.0.0    porn-vn.com
@@ -37553,6 +37565,7 @@
 0.0.0.0    porn-wanted.com
 0.0.0.0    porn-word.com
 0.0.0.0    porn-world.blogspot.com
+0.0.0.0    porn-xnxx-videos.com
 0.0.0.0    porn-xnxx.com
 0.0.0.0    porn-xxx-fuck.com
 0.0.0.0    porn-xxx-movies.blogspot.com
@@ -40773,6 +40786,7 @@
 0.0.0.0    recwebcam.com
 0.0.0.0    red-life.co.uk
 0.0.0.0    red-movies.com
+0.0.0.0    red-porn.org
 0.0.0.0    red-porno.cz
 0.0.0.0    red-tube.pro
 0.0.0.0    red.booru.org
@@ -40848,6 +40862,7 @@
 0.0.0.0    redtube-brasil.blogspot.com
 0.0.0.0    redtube-deutsch.com
 0.0.0.0    redtube-putaria.blogspot.com
+0.0.0.0    redtube-xxx.com
 0.0.0.0    redtube.blog
 0.0.0.0    redtube.co.hu
 0.0.0.0    redtube.com
@@ -42605,6 +42620,7 @@
 0.0.0.0    severeporn-com.zproxy.org
 0.0.0.0    severeporn.com
 0.0.0.0    sex--toy--store.blogspot.com
+0.0.0.0    sex--videos.com
 0.0.0.0    sex-1.19yoporn.com
 0.0.0.0    sex-2.19yoporn.com
 0.0.0.0    sex-3.19yoporn.com
@@ -42612,6 +42628,7 @@
 0.0.0.0    sex-9tube.blogspot.com
 0.0.0.0    sex-and-animals.com
 0.0.0.0    sex-asian.sextgem.com
+0.0.0.0    sex-av.com
 0.0.0.0    sex-bomb.com
 0.0.0.0    sex-bomb.tumblr.com
 0.0.0.0    sex-cam-free.info
@@ -42656,6 +42673,7 @@
 0.0.0.0    sex-hd.xxx
 0.0.0.0    sex-heo.xyz
 0.0.0.0    sex-hot.blogspot.com
+0.0.0.0    sex-hub.live
 0.0.0.0    sex-in-public.tumblr.com
 0.0.0.0    sex-jav.pro
 0.0.0.0    sex-jav.xyz
@@ -42679,6 +42697,7 @@
 0.0.0.0    sex-phim.net
 0.0.0.0    sex-pic.info
 0.0.0.0    sex-porn-cam-voyeur.blogspot.com
+0.0.0.0    sex-porn-videos.com
 0.0.0.0    sex-porn-xxx-adult.blogspot.com
 0.0.0.0    sex-porn-xxx.pro
 0.0.0.0    sex-porn.cam
@@ -42708,6 +42727,7 @@
 0.0.0.0    sex-video-paris-hilton.blogspot.com
 0.0.0.0    sex-video-porr-erotik-porn.blogspot.com
 0.0.0.0    sex-video-tube.com
+0.0.0.0    sex-video-xxx.com
 0.0.0.0    sex-video.live
 0.0.0.0    sex-video.org
 0.0.0.0    sex-videok.com
@@ -70570,7 +70590,9 @@
 0.0.0.0    www.live-sexcams.info
 0.0.0.0    www.live-sexchat.ru
 0.0.0.0    www.live-shows-webcams.com
+0.0.0.0    www.live-xnxx-videos.com
 0.0.0.0    www.live-xxx-chat.com
+0.0.0.0    www.live-xxx-videos.com
 0.0.0.0    www.live-yesmessenger.com
 0.0.0.0    www.live.biz.pl
 0.0.0.0    www.live.cam
@@ -70988,6 +71010,7 @@
 0.0.0.0    www.m-hentai.net
 0.0.0.0    www.m-porn.xxx
 0.0.0.0    www.m-ulata.tumblr.com
+0.0.0.0    www.m-youjizz.com
 0.0.0.0    www.m.4tube.com
 0.0.0.0    www.m.addthis.com
 0.0.0.0    www.m.addthisedge.com
@@ -72123,6 +72146,7 @@
 0.0.0.0    www.misterx-blog.blogspot.com
 0.0.0.0    www.mistr-x.org
 0.0.0.0    www.mistress-luciana.com
+0.0.0.0    www.mistress-movie.com
 0.0.0.0    www.mistress-simone.tumblr.com
 0.0.0.0    www.mistressanitadivina.com
 0.0.0.0    www.mistressbrigitte.blogspot.com
@@ -72215,6 +72239,7 @@
 0.0.0.0    www.mobifcuk.com
 0.0.0.0    www.mobile-free.metulwx.com
 0.0.0.0    www.mobile-porn.club
+0.0.0.0    www.mobile-porn.org
 0.0.0.0    www.mobile-xvideos.com
 0.0.0.0    www.mobile.banzai.it
 0.0.0.0    www.mobile.home.dealer.north.carolina.sms13.de
@@ -72725,6 +72750,7 @@
 0.0.0.0    www.my-porn-sex-teacher.blogspot.com
 0.0.0.0    www.my-secret-life.blogspot.com
 0.0.0.0    www.my-sex-life.com
+0.0.0.0    www.my-xvideos.com
 0.0.0.0    www.my.adocean.pl
 0.0.0.0    www.my.adultwork.com
 0.0.0.0    www.my.mystreamdelivery.xyz
@@ -73360,13 +73386,17 @@
 0.0.0.0    www.nevercumalwaysedge.tumblr.com
 0.0.0.0    www.nevergreen.net
 0.0.0.0    www.nevid.us
+0.0.0.0    www.new-indian-xxx.com
 0.0.0.0    www.new-jav.net
 0.0.0.0    www.new-paris-hilton-movie.blogspot.com
 0.0.0.0    www.new-paris-hilton-video.blogspot.com
 0.0.0.0    www.new-porn.video
 0.0.0.0    www.new-sango-hentai.blogspot.com
+0.0.0.0    www.new-sex-tube.com
 0.0.0.0    www.new-tops.com
 0.0.0.0    www.new-xhamster.com
+0.0.0.0    www.new-xvideos.com
+0.0.0.0    www.new-xxx-tube.com
 0.0.0.0    www.new-york.bedpage.com
 0.0.0.0    www.new.browsermine.com
 0.0.0.0    www.new.livejasmin.com
@@ -73732,6 +73762,7 @@
 0.0.0.0    www.nsfwgames.net
 0.0.0.0    www.nsfwio.tumblr.com
 0.0.0.0    www.nsfwlinks.blogspot.com
+0.0.0.0    www.nsfwmonster.com
 0.0.0.0    www.nsfwonsnap.com
 0.0.0.0    www.nsfwonyourscreen.tumblr.com
 0.0.0.0    www.nsfwpay.com
@@ -73842,6 +73873,7 @@
 0.0.0.0    www.nudegirlfriends.blogspot.com
 0.0.0.0    www.nudehairybabes.net
 0.0.0.0    www.nudeheat.com
+0.0.0.0    www.nudeindianfuck.com
 0.0.0.0    www.nudeindians.net
 0.0.0.0    www.nudeindiantube.com
 0.0.0.0    www.nudeinfrance.com
@@ -74303,6 +74335,7 @@
 0.0.0.0    www.oiluk.net
 0.0.0.0    www.oilyhandjobs.com
 0.0.0.0    www.ok-fuck.com
+0.0.0.0    www.ok-porn.org
 0.0.0.0    www.ok.porn
 0.0.0.0    www.ok.xxx
 0.0.0.0    www.okaleczenie15laatkii.blogspot.com
@@ -74413,6 +74446,7 @@
 0.0.0.0    www.one-dream.de
 0.0.0.0    www.one-handed.com
 0.0.0.0    www.one-piece-porn.com
+0.0.0.0    www.one-video-xxx.com
 0.0.0.0    www.one.ru
 0.0.0.0    www.one3six.gr
 0.0.0.0    www.onebiz.cl
@@ -74450,6 +74484,7 @@
 0.0.0.0    www.online-sex.eu
 0.0.0.0    www.online-templatestore.com
 0.0.0.0    www.online-x.ru
+0.0.0.0    www.online-xxx-videos.com
 0.0.0.0    www.online.miarroba.com
 0.0.0.0    www.online.pro
 0.0.0.0    www.online2play.com
@@ -75510,6 +75545,7 @@
 0.0.0.0    www.photos-jeunes-salopes.biz
 0.0.0.0    www.photos-lesbiennes-x.com
 0.0.0.0    www.photos-videos-voyeurs.blogspot.com
+0.0.0.0    www.photos-videos.com
 0.0.0.0    www.photos.freeones.com
 0.0.0.0    www.photoscape.ch
 0.0.0.0    www.photosex.biz
@@ -76202,10 +76238,12 @@
 0.0.0.0    www.porn-vault.com
 0.0.0.0    www.porn-videos-1184.blogspot.com
 0.0.0.0    www.porn-videos-1198.blogspot.com
+0.0.0.0    www.porn-videos-xxx.com
 0.0.0.0    www.porn-videos.blogspot.com
 0.0.0.0    www.porn-w.org
 0.0.0.0    www.porn-wanted.com
 0.0.0.0    www.porn-world.blogspot.com
+0.0.0.0    www.porn-xnxx-videos.com
 0.0.0.0    www.porn-xnxx.com
 0.0.0.0    www.porn-xxx-movies.blogspot.com
 0.0.0.0    www.porn-xxx-videos.com
@@ -78576,6 +78614,7 @@
 0.0.0.0    www.recurbate.me
 0.0.0.0    www.recwebcam.com
 0.0.0.0    www.red-movies.com
+0.0.0.0    www.red-porn.org
 0.0.0.0    www.red-porno.cz
 0.0.0.0    www.red.photobucket.com
 0.0.0.0    www.redamz.itch.io
@@ -78631,6 +78670,7 @@
 0.0.0.0    www.redtube-brasil.blogspot.com
 0.0.0.0    www.redtube-deutsch.com
 0.0.0.0    www.redtube-putaria.blogspot.com
+0.0.0.0    www.redtube-xxx.com
 0.0.0.0    www.redtube.co.hu
 0.0.0.0    www.redtube.com
 0.0.0.0    www.redtube.com.br
@@ -79672,6 +79712,7 @@
 0.0.0.0    www.sedu.adhands.ru
 0.0.0.0    www.seducedangel.com
 0.0.0.0    www.seductivetease.com
+0.0.0.0    www.see-tube.com
 0.0.0.0    www.see-x.com
 0.0.0.0    www.see.hit.gemius.pl
 0.0.0.0    www.see.xxx
@@ -79841,10 +79882,12 @@
 0.0.0.0    www.severalmovies.com
 0.0.0.0    www.sevporn.com
 0.0.0.0    www.sex--toy--store.blogspot.com
+0.0.0.0    www.sex--videos.com
 0.0.0.0    www.sex-9tube.blogspot.com
 0.0.0.0    www.sex-amateur-clips.com
 0.0.0.0    www.sex-and-animals.com
 0.0.0.0    www.sex-asian.sextgem.com
+0.0.0.0    www.sex-av.com
 0.0.0.0    www.sex-bomb.com
 0.0.0.0    www.sex-cam-free.info
 0.0.0.0    www.sex-cam-reviews.com
@@ -79866,6 +79909,7 @@
 0.0.0.0    www.sex-haus.de
 0.0.0.0    www.sex-hd.xxx
 0.0.0.0    www.sex-hot.blogspot.com
+0.0.0.0    www.sex-hub.live
 0.0.0.0    www.sex-libre.org
 0.0.0.0    www.sex-link.hu
 0.0.0.0    www.sex-lover-couple.blogspot.com
@@ -79880,6 +79924,7 @@
 0.0.0.0    www.sex-pc-game.blogspot.com
 0.0.0.0    www.sex-pic.net
 0.0.0.0    www.sex-porn-cam-voyeur.blogspot.com
+0.0.0.0    www.sex-porn-videos.com
 0.0.0.0    www.sex-porn-xxx-adult.blogspot.com
 0.0.0.0    www.sex-porn.cam
 0.0.0.0    www.sex-porno-007.blogspot.com
@@ -79896,6 +79941,8 @@
 0.0.0.0    www.sex-tube.hu
 0.0.0.0    www.sex-video-paris-hilton.blogspot.com
 0.0.0.0    www.sex-video-porr-erotik-porn.blogspot.com
+0.0.0.0    www.sex-video-tube.com
+0.0.0.0    www.sex-video-xxx.com
 0.0.0.0    www.sex-videos.dk
 0.0.0.0    www.sex-videos.link
 0.0.0.0    www.sex-vids.eu
