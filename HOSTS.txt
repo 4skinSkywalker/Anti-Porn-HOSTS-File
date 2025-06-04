@@ -35498,7 +35498,6 @@
 0.0.0.0    pbs-0.adult-empire.com
 0.0.0.0    pbs-1.adult-empire.com
 0.0.0.0    pbs-2.adult-empire.com
-0.0.0.0    pbs.twimg.com
 0.0.0.0    pbtv-ma.playboy.com
 0.0.0.0    pc-data.pl
 0.0.0.0    pc-services.ru
@@ -50988,7 +50987,6 @@
 0.0.0.0    video.redwap2.com
 0.0.0.0    video.redwap3.com
 0.0.0.0    video.szex.hu
-0.0.0.0    video.twimg.com
 0.0.0.0    video.vxxxcdn.net
 0.0.0.0    video.xhcdn.com
 0.0.0.0    video.xnxx.com
@@ -75318,7 +75316,6 @@
 0.0.0.0    www.paysitesreviews.net
 0.0.0.0    www.payusatax.com
 0.0.0.0    www.pbnet.ru
-0.0.0.0    www.pbs.twimg.com
 0.0.0.0    www.pc-data.pl
 0.0.0.0    www.pc-services.ru
 0.0.0.0    www.pc-wallpapers.co.uk
@@ -84762,7 +84759,6 @@
 0.0.0.0    www.video-virgins.com
 0.0.0.0    www.video.eyny.com
 0.0.0.0    www.video.filestube.com
-0.0.0.0    www.video.twimg.com
 0.0.0.0    www.video1tube.com
 0.0.0.0    www.video69.ru
 0.0.0.0    www.videoadex.com
