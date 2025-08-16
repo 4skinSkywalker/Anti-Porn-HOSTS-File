@@ -28427,6 +28427,7 @@
 0.0.0.0    manhwa24hz.com
 0.0.0.0    manhwahentai-me.zproxy.org
 0.0.0.0    manhwahentai.com
+0.0.0.0    manhwahentai.io
 0.0.0.0    manhwahentai.me
 0.0.0.0    manhwavn.com
 0.0.0.0    maniacosporcomics.com
@@ -90848,3 +90849,7 @@
 0.0.0.0    zzsyw.com
 0.0.0.0    zzztube.com
 0.0.0.0    zzztube.tv
+0.0.0.0    pornmaven.com
+0.0.0.0    hentai44.com
+0.0.0.0    xnxx.work
+0.0.0.0    cartoonporn.to
