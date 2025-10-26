@@ -22481,6 +22481,7 @@
 0.0.0.0    id.pornosearch.guru
 0.0.0.0    id.skokka.com
 0.0.0.0    id.spankbang.com
+0.0.0.0    id.xhamster.com
 0.0.0.0    id11938.luxup.ru
 0.0.0.0    id5576.al21.luxup.ru
 0.0.0.0    idc.com.ua
