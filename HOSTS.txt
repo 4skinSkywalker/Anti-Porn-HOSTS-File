@@ -22481,6 +22481,9 @@
 0.0.0.0    id.pornosearch.guru
 0.0.0.0    id.skokka.com
 0.0.0.0    id.spankbang.com
+0.0.0.0    id.xhamster.com
+0.0.0.0    id.xhamster2.com
+0.0.0.0    id.xhamster3.com
 0.0.0.0    id11938.luxup.ru
 0.0.0.0    id5576.al21.luxup.ru
 0.0.0.0    idc.com.ua
@@ -86365,6 +86368,7 @@
 0.0.0.0    www.xlgirls.com
 0.0.0.0    www.xlilith.com
 0.0.0.0    www.xlinkz.to
+0.0.0.0    www.xlivesex.com
 0.0.0.0    www.xlivewebcams.com
 0.0.0.0    www.xlogz.com
 0.0.0.0    www.xlovecam.com
@@ -88469,6 +88473,7 @@
 0.0.0.0    xlilith.com
 0.0.0.0    xlinkz.to
 0.0.0.0    xlittleasians.com
+0.0.0.0    xlivesex.com
 0.0.0.0    xlivetube.com
 0.0.0.0    xlivewebcams.com
 0.0.0.0    xlnubiles.com
