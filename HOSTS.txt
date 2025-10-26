@@ -48192,7 +48192,6 @@
 0.0.0.0    theperfectboobs.net
 0.0.0.0    thepervs.com
 0.0.0.0    thepinsta.com
-0.0.0.0    thepiratebay.org
 0.0.0.0    thepiratepartybay.com
 0.0.0.0    thepissedkittycometh.blogspot.com
 0.0.0.0    theplumberschoice.store
@@ -83097,7 +83096,6 @@
 0.0.0.0    www.theonlygames.com
 0.0.0.0    www.theperfectboobs.net
 0.0.0.0    www.thepinupfiles.com
-0.0.0.0    www.thepiratebay.org
 0.0.0.0    www.thepiratepartybay.com
 0.0.0.0    www.thepissedkittycometh.blogspot.com
 0.0.0.0    www.theplumberschoice.store
