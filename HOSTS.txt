@@ -22484,6 +22484,7 @@
 0.0.0.0    id.xhamster.com
 0.0.0.0    id.xhamster2.com
 0.0.0.0    id.xhamster3.com
+0.0.0.0    id.xhvid.com
 0.0.0.0    id11938.luxup.ru
 0.0.0.0    id5576.al21.luxup.ru
 0.0.0.0    idc.com.ua
@@ -31049,6 +31050,10 @@
 0.0.0.0    my.rusvideos.day
 0.0.0.0    my.srandel.com
 0.0.0.0    my.sweet-angels.net
+0.0.0.0    my.xhamster.com
+0.0.0.0    my.xhamster2.com
+0.0.0.0    my.xhamster3.com
+0.0.0.0    my.xhvid.com
 0.0.0.0    my18pussy.com
 0.0.0.0    my18tube.com
 0.0.0.0    my1tube.com
@@ -88420,6 +88425,7 @@
 0.0.0.0    xhub.tv
 0.0.0.0    xhubz.com
 0.0.0.0    xhugegaycock.com
+0.0.0.0    xhvid.com
 0.0.0.0    xhwebsite.com
 0.0.0.0    xhwide2.com
 0.0.0.0    xhxvideos.com
