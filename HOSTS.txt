@@ -14161,6 +14161,7 @@
 0.0.0.0    encouragingwilderness.com
 0.0.0.0    encryptbooru.booru.org
 0.0.0.0    encyclopediadramatica.wiki
+0.0.0.0    endchan.org
 0.0.0.0    endless4share.blogspot.com
 0.0.0.0    endurableshop.com
 0.0.0.0    energe.top
@@ -25586,6 +25587,7 @@
 0.0.0.0    juneloi-myfun.blogspot.com
 0.0.0.0    juniorcizinha.blogspot.com
 0.0.0.0    juniorhandling.pl
+0.0.0.0    junkuchan.org
 0.0.0.0    jupiter3.thisvid.com
 0.0.0.0    jur.unn.ac.ru
 0.0.0.0    jurassiccock.com
