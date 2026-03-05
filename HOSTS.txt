@@ -15162,6 +15162,7 @@
 0.0.0.0    exposedforums.com
 0.0.0.0    exposedisuppose.blogspot.com
 0.0.0.0    exposedlatinas.com
+0.0.0.0    exposedpassion.com
 0.0.0.0    exposedtostrangers.com
 0.0.0.0    expowin.com
 0.0.0.0    expressodenoticias.com.br
@@ -63504,6 +63505,7 @@
 0.0.0.0    www.exposedforums.com
 0.0.0.0    www.exposedisuppose.blogspot.com
 0.0.0.0    www.exposedlatinas.com
+0.0.0.0    www.exposedpassion.com
 0.0.0.0    www.exposedtostrangers.com
 0.0.0.0    www.expowin.com
 0.0.0.0    www.expressodenoticias.com.br
@@ -86172,6 +86174,7 @@
 0.0.0.0    www.x-diesel.biz
 0.0.0.0    www.x-diesel.com
 0.0.0.0    www.x-diesel.org
+0.0.0.0    www.x-fetish.tube
 0.0.0.0    www.x-hentai.cf
 0.0.0.0    www.x-hentai.com
 0.0.0.0    www.x-preview.com
@@ -87981,6 +87984,7 @@
 0.0.0.0    x-diesel.biz
 0.0.0.0    x-diesel.com
 0.0.0.0    x-diesel.org
+0.0.0.0    x-fetish.tube
 0.0.0.0    x-grannytube.com
 0.0.0.0    x-hd.video
 0.0.0.0    x-hentai.cf
