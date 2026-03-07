@@ -37422,6 +37422,7 @@
 0.0.0.0    pnghits.blogspot.com
 0.0.0.0    pnwguy.tumblr.com
 0.0.0.0    pnxy.uno
+0.0.0.0    po-kaki-to.com
 0.0.0.0    po.fyybox.com
 0.0.0.0    po.st
 0.0.0.0    po88.cc
@@ -76240,6 +76241,7 @@
 0.0.0.0    www.pmt4men.blogspot.com
 0.0.0.0    www.pnghits.blogspot.com
 0.0.0.0    www.pnxy.uno
+0.0.0.0    www.po-kaki-to.com
 0.0.0.0    www.po.fyybox.com
 0.0.0.0    www.po.st
 0.0.0.0    www.po88.cc
