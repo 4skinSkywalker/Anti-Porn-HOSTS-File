@@ -40528,7 +40528,7 @@
 0.0.0.0    qxxru.linknotification.com
 0.0.0.0    qydykq.com
 0.0.0.0    qytt321.top
-0.0.0.0    r.ad6media    
+0.0.0.0    r.ad6media.fr    
 0.0.0.0    r.foxgay.com
 0.0.0.0    r.ibg.bg
 0.0.0.0    r.reklama.biz
