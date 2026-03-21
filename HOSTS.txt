@@ -40528,7 +40528,7 @@
 0.0.0.0    qxxru.linknotification.com
 0.0.0.0    qydykq.com
 0.0.0.0    qytt321.top
-0.0.0.0    r.ad6media.fr
+0.0.0.0    r.ad6media    
 0.0.0.0    r.foxgay.com
 0.0.0.0    r.ibg.bg
 0.0.0.0    r.reklama.biz
@@ -40782,6 +40782,7 @@
 0.0.0.0    realcastmedia.com
 0.0.0.0    realclassicporn.com
 0.0.0.0    realclever.com
+0.0.0.0    realdeepfakes.com
 0.0.0.0    realdoll.com
 0.0.0.0    realepicurean.com
 0.0.0.0    realeporno.com
@@ -78706,6 +78707,7 @@
 0.0.0.0    www.realbooru.com
 0.0.0.0    www.realcastmedia.com
 0.0.0.0    www.realclever.com
+0.0.0.0    www.realdeepfakes.com
 0.0.0.0    www.realdoll.com
 0.0.0.0    www.realemoexposed.com
 0.0.0.0    www.realepicurean.com
