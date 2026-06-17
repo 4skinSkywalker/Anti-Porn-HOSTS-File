@@ -80,6 +80,40 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 10. If the device was rooted properly, it should successfully block all sites listed. If it doesn't work right away, try rebooting.
 11. (optional) If you want to make it a little more difficult to edit the file (so that you dont delete it), go into your device's shell with `adb shell`, and make the `hosts` file immutable by running `chattr +i /system/etc/hosts`. You can remove the immutability by replacing `+i` with `-i`.
 
+## Alternative Method
+
+### Using DNS for Family
+
+Besides modifying hosts file, using DNS for Family can also be very useful for blocking adult websites. It is a DNS service that comes ready with content filtering such as malware, harmful ads, and adult sites.
+
+Setting DNS manually on a PC ensures that the device always uses the selected filtering service, even without relying on the router. Though it is always better to set it on the router-level for network-wide effect.
+
+1. Open **Settings**
+2. Go to **Network & Internet**
+3. Select **Advanced network settings**
+4. Click **More network adapter options**
+5. Right click on the network you are using → **Properties**
+6. Select **Internet Protocol Version 4 (IPv4)** → **Properties**
+7. Select **Use the following DNS server addresses**
+8. Enter the preferred DNS (example: `1.1.1.3` and `1.0.0.3`) 
+9. Repeat the steps for **Internet Protocol Version 6 (IPv6)** if necessary *(See table below for more DNS for Family providers)*
+10. Click OK.
+
+![dns settings](https://i.imgur.com/lgVAUxk.png)
+
+**Notes:**
+
+- Set both IPv4 and IPv6 to avoid bypass
+- Configure the router so that the entire network uses the same DNS
+
+**Available DNS for Family providers:**
+
+| DNS                           | IPv4                                   | IPv6                                             |
+| ----------------------------- | -------------------------------------- | ------------------------------------------------ |
+| Cloudflare for Families       | `1.1.1.3`<br>`1.0.0.3`                 | `2606:4700:4700::1113`<br>`2606:4700:4700::1003` |
+| OpenDNS FamilyShield          | `208.67.222.123`<br>`208.67.220.123`   | `2620:0:ccc::2`<br>`2620:0:ccd::2`               |
+| CleanBrowsing Family Filter   | `185.228.168.168`<br>`185.228.169.168` | `2a00:5a60::bad1:0ff`<br>`2a00:5a60::bad2:0ff`   |
+| AdGuard DNS Family Protection | `94.140.14.15`<br>`94.140.15.16`       | `2a10:50c0::bad1:ff`<br>`2a10:50c0::bad2:ff`     |
 
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
