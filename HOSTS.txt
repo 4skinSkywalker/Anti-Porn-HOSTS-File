@@ -21432,6 +21432,7 @@
 0.0.0.0 live.elasnacam.com
 0.0.0.0 live.fc2.com
 0.0.0.0 live.hegre.com
+0.0.0.0 live.morehardporn.com
 0.0.0.0 live.pornpics.com
 0.0.0.0 live.pornpics.com
 0.0.0.0 live.sex
@@ -35046,6 +35047,7 @@
 0.0.0.0 simonsgirls.com
 0.0.0.0 simpcave.com
 0.0.0.0 simpcity-su.com
+0.0.0.0 simpcity.cr
 0.0.0.0 simpcity.fans
 0.0.0.0 simpcity.su
 0.0.0.0 simpcity.tv
@@ -55464,6 +55466,7 @@
 0.0.0.0 www.live-xxx-videos.com
 0.0.0.0 www.live.cam
 0.0.0.0 www.live.czechsoles.com
+0.0.0.0 www.live.morehardporn.com
 0.0.0.0 www.live.pornpics.com
 0.0.0.0 www.live.sexviacam.com
 0.0.0.0 www.live121chat.com
@@ -63159,6 +63162,7 @@
 0.0.0.0 www.simonbolz.com
 0.0.0.0 www.simpcave.com
 0.0.0.0 www.simpcity-su.com
+0.0.0.0 www.simpcity.cr
 0.0.0.0 www.simpcity.fans
 0.0.0.0 www.simpcity.su
 0.0.0.0 www.simpcity.tv
