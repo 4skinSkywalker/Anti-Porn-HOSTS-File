@@ -1,4 +1,4 @@
-0.0.0 0.nextyourcontent.com
+0.0.0.0 0.nextyourcontent.com
 0.0.0.0 0.xd-cdn.com
 0.0.0.0 0.xxx-cdn.com
 0.0.0.0 000free.us
