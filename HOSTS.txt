@@ -1,4 +1,4 @@
-0.0.0.0 0.nextyourcontent.com
+0.0.0 0.nextyourcontent.com
 0.0.0.0 0.xd-cdn.com
 0.0.0.0 0.xxx-cdn.com
 0.0.0.0 000free.us
@@ -35046,6 +35046,7 @@
 0.0.0.0 simonsgirls.com
 0.0.0.0 simpcave.com
 0.0.0.0 simpcity-su.com
+0.0.0.0 simpcity.cr
 0.0.0.0 simpcity.fans
 0.0.0.0 simpcity.su
 0.0.0.0 simpcity.tv
@@ -63159,6 +63160,7 @@
 0.0.0.0 www.simonbolz.com
 0.0.0.0 www.simpcave.com
 0.0.0.0 www.simpcity-su.com
+0.0.0.0 www.simpcity.cr
 0.0.0.0 www.simpcity.fans
 0.0.0.0 www.simpcity.su
 0.0.0.0 www.simpcity.tv
